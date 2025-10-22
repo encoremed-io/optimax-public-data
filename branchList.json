@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Taman Tun Dr. Ismail Kuala Lumpur (HQ)",
+        "code": "TTDI",
+        "address": {
+            "street1": "Taman Tun Dr. Ismail, Kuala Lumpur (HQ)",
+            "street2": "Unit 2-2-1, Republik TTDI",
+            "street3": "Jalan Tun Mohd Fuad 3",
+            "street4": "Taman Run Dr. Ismail",
+            "street5": "",
+            "postcode": "60000",
+            "city": "Kuala Lumpur"
+        },
+        "contact": {
+            "phone": "+603-7890 2626",
+            "whatsapp": "+6010-909 1201",
+            "fax": "+603-2859 0214",
+            "email": "hq@OPTIMAX.com.my"
+        },
+        "businessHours": [
+            "Monday to Saturday: 9:00 AM - 6:00 PM",
+            "First Sunday of each month: 9:00 AM - 6:00 PM"
+        ],
+        "coordinates": {
+            "latitude": 3.1411538,
+            "longitude": 101.6285335
+        }
+    }
+]

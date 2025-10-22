@@ -1,0 +1,10 @@
+{
+  "Reason of Visit #1": {
+    "description": "something",
+    "branches": {
+      "BRANCH_CODE": {
+        "serviceCodes": ["XXXXXXX"]
+      }
+    }
+  }
+}
