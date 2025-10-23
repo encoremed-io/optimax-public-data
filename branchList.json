@@ -16,8 +16,8 @@
       "email": "hq@OPTIMAX.com.my"
     },
     "businessHours": [
-      "Monday to Saturday: 9.00 am-6.00 pm",
-      "First Sunday of each month: 9.00 am-6.00 pm"
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "First Sunday of each month: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.1410844,101.6262983&navigate=yes",
@@ -41,8 +41,8 @@
       "email": "sp@OPTIMAX.com.my"
     },
     "businessHours": [
-      "Monday to Saturday: 9.00am-6.00pm",
-      "Fourth Sunday of each month: 9.00am-6.00pm"
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "Fourth Sunday of each month: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.071027,101.692269&navigate=yes",
@@ -66,8 +66,8 @@
       "email": "cheras@OPTIMAX.com.my"
     },
     "businessHours": [
-      "Monday to Saturday: 9.00 am-6.00 pm",
-      "First Sunday of each month: 9.00 am-6.00 pm"
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "First Sunday of each month: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.0355107,101.7633199&navigate=yes",
@@ -81,20 +81,17 @@
     "address": {
       "street1": "No. 79, Jalan 3/62A",
       "street2": "Bandar Menjalara",
-      "street3": "",
-      "street4": "",
-      "street5": "",
       "postcode": "52200",
       "city": "Kuala Lumpur"
     },
     "contact": {
-      "phone": "03-2779 0066",
+      "phone": "+603-2779 0066",
       "whatsapp": "+6016-678 4101",
       "email": "kepong@optimax.com.my"
     },
     "businessHours": [
-      "Tuesday to Saturday: 9.00 am-6.00 pm",
-      "Fourth Sunday of each month: 9.00 am-6.00 pm"
+      "Tuesday to Saturday: 9.00am - 6.00pm",
+      "Fourth Sunday of each month: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.1951152,101.6317355&navigate=yes",
@@ -114,7 +111,7 @@
     "contact": {
       "phone": "+603-7890 0160"
     },
-    "businessHours": ["Tuesday to Saturday: 9.00 am-6.00 pm"],
+    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
     "navigation": {
       "waze": "waze://?ll=3.2100947,101.7519149&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/XsYCcp8zzKKmJPNW6"
@@ -127,9 +124,6 @@
     "address": {
       "street1": "60, Jalan Hujan Rahmat 2",
       "street2": "Overseas Union Garden",
-      "street3": "",
-      "street4": "",
-      "street5": "",
       "postcode": "58200",
       "city": "Kuala Lumpur"
     },
@@ -139,7 +133,7 @@
       "email": "oug@OPTIMAX.com.my"
     },
     "businessHours": [
-      "Mon-Wed, Fri-Sat: 9.30 am-6.30 pm",
+      "Mon-Wed, Fri-Sat: 9.30am - 6.30pm",
       "Thurs & Sundays: Closed"
     ],
     "navigation": {
@@ -160,10 +154,9 @@
     "contact": {
       "phone": "+603-7890 0168",
       "whatsapp": "+6014-658 8101",
-      "fax": "",
       "email": "damansarajaya@optimax.com.my"
     },
-    "businessHours": ["Monday to Sunday: 10.00 am-7.00 pm"],
+    "businessHours": ["Monday to Sunday: 10.00am - 7.00pm"],
     "navigation": {
       "waze": "waze://?ll=3.1270963,101.6139427&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/e6AtKDyUurVdDpMH8"
@@ -185,7 +178,7 @@
       "fax": "+603-5638 4225",
       "email": "bandarsunway@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Sunday: 8.00 am-5.00 pm"],
+    "businessHours": ["Monday to Sunday: 8.00am - 5.00pm"],
     "navigation": {
       "waze": "waze://?ll=3.0721714,101.6071033&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/PpCwCDBEuZPruYwH7"
@@ -206,7 +199,7 @@
       "whatsapp": "+6019-357 9111",
       "email": "elmina@optimax.com.my"
     },
-    "businessHours": ["Tuesday to Saturday: 9.00 am-6.00 pm"],
+    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
     "navigation": {
       "waze": "waze://?ll=3.1624562,101.5733949&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/aFmYydWF3bX8Lmqg8"
@@ -227,7 +220,7 @@
       "whatsapp": "+6016-350 7101",
       "email": "kotakemuning@optimax.com.my"
     },
-    "businessHours": ["Tuesday to Saturday: 9.00 am-6.00 pm"],
+    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
     "navigation": {
       "waze": "waze://?ll=3.004465,101.535324&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/FGcKxCct2HJ7mujH6"
@@ -249,8 +242,8 @@
       "email": "shahalam@OPTIMAX.com.my"
     },
     "businessHours": [
-      "Monday to Saturday: 9.00 am-6.00 pm",
-      "Second Sunday of each month: 9.00 am-6.00 pm"
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "Second Sunday of each month: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.063802,101.527176&navigate=yes",
@@ -271,7 +264,7 @@
       "whatsapp": "+6016-468 1101",
       "email": "klang@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00 am-6.00 pm", "Sunday: Closed"],
+    "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
     "navigation": {
       "waze": "waze://?ll=3.014704,101.431350&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/GcYyW9y1RxPogsu7A"
@@ -294,8 +287,8 @@
       "email": "penang@OPTIMAX.com.my"
     },
     "businessHours": [
-      "Monday to Saturday: 9.00 am-6.00 pm",
-      "Sunday: 9.00 am-1.00 pm"
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "Sunday: 9.00am - 1.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=5.3990963,100.3020953&navigate=yes",
@@ -317,7 +310,7 @@
       "email": "bukitmertajam@optimax.com.my"
     },
     "businessHours": [
-      "Tuesday to Saturday: 9.00 am-6.00 pm",
+      "Tuesday to Saturday: 9.00am - 6.00pm",
       "Sunday & Monday: Closed"
     ],
     "navigation": {
@@ -341,8 +334,8 @@
       "email": "ipoh@OPTIMAX.com.my"
     },
     "businessHours": [
-      "Tuesday to Saturday: 9.00 am-6.00 pm",
-      "1st Sunday of each month: 9.00 am-6.00 pm",
+      "Tuesday to Saturday: 9.00am - 6.00pm",
+      "1st Sunday of each month: 9.00am - 6.00pm",
       "Monday: Closed"
     ],
     "navigation": {
@@ -365,7 +358,7 @@
       "fax": "+606-761 0903",
       "email": "seremban@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Sunday: 9.00 am-6.00 pm"],
+    "businessHours": ["Monday to Sunday: 9.00am - 6.00pm"],
     "navigation": {
       "waze": "waze://?ll=2.731687,101.936945&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/XXeZsLyezbdCLgo77"
@@ -386,7 +379,7 @@
       "whatsapp": "016-739 9101",
       "email": "bahau@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00 am-6.00 pm", "Sunday: Closed"],
+    "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
     "navigation": {
       "waze": "waze://?ll=2.815111,102.415944&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/GumtDcrXEakGPzca6"
@@ -405,7 +398,7 @@
       "phone": "+607-701 0018",
       "email": "kluang@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00 am-5.00 pm", "Sunday: Closed"],
+    "businessHours": ["Monday to Saturday: 9.00am - 5.00pm", "Sunday: Closed"],
     "navigation": {
       "waze": "waze://?ll=2.034848,103.3189775&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/rZdoyc5NSimcUJybA"
@@ -424,7 +417,7 @@
       "phone": "+07-981 0018",
       "email": "muar@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00 am-5.00 pm"],
+    "businessHours": ["Monday to Saturday: 9.00am - 5.00pm"],
     "navigation": {
       "waze": "waze://?ll=2.0606850,102.5748963&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/1M9GUYuQ2jr55Ryp9"
@@ -443,7 +436,7 @@
       "phone": "+607-971 0018",
       "email": "segamat@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00 am-5.00 pm"],
+    "businessHours": ["Monday to Saturday: 9.00am - 5.00pm"],
     "navigation": {
       "waze": "waze://?ll=2.501805,%20102.822446&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/xa9NW75x4KtsbVvm9"
@@ -461,11 +454,10 @@
     },
     "contact": {
       "phone": "+607-859 0528",
-      "whatsapp": "019-714 2101",
-      "fax": "",
+      "whatsapp": "+6019-714 2101",
       "email": "johor@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00 am-6.00 pm", "Sunday: Closed"],
+    "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
     "navigation": {
       "waze": "waze://?ll=1.577432,103.800594&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/jz8zTniD8XVWxBwHA"
@@ -483,10 +475,10 @@
     },
     "contact": {
       "phone": "+07-535 1800",
-      "whatsapp": "016-312 4101",
+      "whatsapp": "+016-312 4101",
       "email": "sutera@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00 am-5.00 pm", "Sunday: Closed"],
+    "businessHours": ["Monday to Saturday: 9.00am - 5.00pm", "Sunday: Closed"],
     "navigation": {
       "waze": "waze://?ll=1.5154158002652993,103.66825794645344&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/brBjJJGZibbDBVLw5"
@@ -503,11 +495,11 @@
     },
     "contact": {
       "phone": "+082-26 8038",
-      "whatsapp": "016-426 9101",
+      "whatsapp": "+016-426 9101",
       "fax": "+6082-579 087",
       "email": "kuching@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Sunday: 9.00 am-6.00 pm"],
+    "businessHours": ["Monday to Sunday: 9.00am - 6.00pm"],
     "navigation": {
       "waze": "waze://?ll=1.527319,110.357556&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/LS93YJqSuJrmz3Nv8"
