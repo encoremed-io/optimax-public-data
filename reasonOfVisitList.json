@@ -1,10 +1,849 @@
-{
-  "Reason of Visit #1": {
-    "description": "something",
-    "branches": {
-      "BRANCH_CODE": {
-        "serviceCodes": ["XXXXXXX"]
-      }
+[
+    {
+        "LASIK Suitability Test (by Optometrist only)": {
+            "appointmentDuration": "2 hours",
+            "ageRange": "18 - 50 years old",
+            "description": [
+                {
+                    "To lay off contact lenses completely for the specified minimum duration before the eye test:": [
+                        "Soft lenses: 7 days",
+                        "Soft toric lenses (with astigmatism): 10 - 14 days",
+                        "Hard lenses / Ortho-K: 21 days"
+                    ]
+                },
+                "Pupil dilation will be done. There may be light sensitivity and blurring of near vision for 1-2 days.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Elmina": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Kota Kemuning": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "Eye Examination",
+                        "operationTime": "For Sun - Monday appointments only"
+                }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "Eye Examination , CK & AEE",
+                        "operationTime": "For Tues - Saturday appointments only"
+                    }
+                ],
+                "Melawati": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "Eye Examination And Checkup"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Adult Complete Eye Examination (by Optometrist only)": {
+            "appointmentDuration": "2 hours",
+            "ageRange": "18 - 50 years old",
+            "description": [
+                "Kindly do not wear your contact lenses on the day of the eye test",
+                "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Elmina": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Kota Kemuning": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "Eye Examination",
+                        "operationTime": "For Sun - Monday appointments only"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "Eye Examination , CK & AEE",
+                        "operationTime": "For Tues - Saturday appointments only"
+                    }
+                ],
+                "Melawati": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "Eye Examination And Checkup"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "Eye Examination And Checkup"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ]
+                }
+        }
+    },
+    {
+        "After LASIK Eye Check-ups & Annual Eye Examinations (by Optometrist only)": {
+            "appointmentDuration": "30 minutes",
+            "description": [
+                "Only for existing patients who underwent LASIK surgery with Optimax Eye Specialist Centre.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Elmina": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "Eye Check-up and Annual EE"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "Eye Check-up and AEE"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "Eye Check-up and Annual EE"
+                    }
+                ],
+                "Kota Kemuning": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE",
+                        "operationTime": "For Sun - Monday appointments only"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "Eye Examination , CK & AEE",
+                        "operationTime": "For Tues - Saturday appointments only"
+                    }
+                ],
+                "Melawati": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "Eye Check-up & Annual EE"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "Eye Examination And Checkup"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "Eye Check-up & AEE"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "Eye Examination"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "Eye Check-up"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "Eye Check-up And Annual EE"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "AEE & Eye Check-up"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "Eye Check-up And Annual EE"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "Eye Check-up & Annual EE"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "Eye Check-up And Annual EE"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Follow-up appointment with my current Eye Doctor": {
+            "appointmentDuration": "30 minutes",
+            "description": [
+                "Visits may take up to 2 hours, depending on the case.",
+                "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "Dr Muiz"
+                    },
+                    {
+                        "serviceCode": "Dr Ng Chun Wai"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "ESC 1"
+                    },
+                    {
+                        "serviceCode": "ESC 2"
+                    },
+                    {
+                        "serviceCode": "ESC 3"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "NIL"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "Dr Lee"
+                    },
+                    {
+                        "serviceCode": "Dr Ang"
+                    },
+                    {
+                        "serviceCode": "Dr Edwin"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "ESC"
+                    },
+                    {
+                        "serviceCode": "ESC 2"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "ESC Dr Zai"
+                    },
+                    {
+                        "serviceCode": "ESC Dr Hafiz"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "Dr Chuah Kay Leong"
+                    },
+                    {
+                        "serviceCode": "Dr Adeline Sia"
+                    },
+                    {
+                        "serviceCode": "Dr Tang Seng Fai"
+                    },
+                    {
+                        "serviceCode": "Dr Muiz"
+                    },
+                    {
+                        "serviceCode": "Dr Ng Chun Wai"
+                    }
+                ]
+                }
+        }
+    },
+    {
+        "Cataract / Eye Disease examination (by Eye Doctor)": {
+            "appointmentDuration": "30 minutes",
+            "description": [
+                "Visits may take up to 2 hours, depending on the case.",
+                "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "Dr Muiz"
+                    },
+                    {
+                        "serviceCode": "Dr Ng Chun Wai"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "ESC 1"
+                    },
+                    {
+                        "serviceCode": "ESC 2"
+                    },
+                    {
+                        "serviceCode": "ESC 3"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "NIL"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "Dr Lee"
+                    },
+                    {
+                        "serviceCode": "Dr Ang"
+                    },
+                    {
+                        "serviceCode": "Dr Edwin"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "ESC"
+                    },
+                    {
+                        "serviceCode": "ESC 2"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "ESC Dr Zai"
+                    },
+                    {
+                        "serviceCode": "ESC Dr Hafiz"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "ESC"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "Dr Chuah Kay Leong"
+                    },
+                    {
+                        "serviceCode": "Dr Adeline Sia"
+                    },
+                    {
+                        "serviceCode": "Dr Tang Seng Fai"
+                    },
+                    {
+                        "serviceCode": "Dr Muiz"
+                    },
+                    {
+                        "serviceCode": "Dr Ng Chun Wai"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Children Complete Eye Examination": {
+            "appointmentDuration": "30 - 60 minutes",
+            "ageRange": "5 - 17 years old",
+            "description": [
+                "Eye Examination may be performed by both Optometrists and Eye Doctors (case dependent).",
+                "Visits may take up to 2 hours, depending on the case.",
+                "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 1-2 days."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    { "serviceCode": "Dr Muiz" },
+                    { "serviceCode": "Dr Ng Chun Wai" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Bahau": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Cheras Selatan": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Elmina": [
+                    { "serviceCode": "Eye Check-up & AEE" }
+                ],
+                "Ipoh": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Johor": [
+                    { "serviceCode": "ESC 1" },
+                    { "serviceCode": "ESC 2" },
+                    { "serviceCode": "ESC 3" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Kepong": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Klang": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Kluang": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Kota Kemuning": [
+                    { "serviceCode": "Eye Check-up & AEE" }
+                ],
+                "Kota Kinabalu": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Kuching": [
+                    { "serviceCode": "ESC" }
+                ],
+                "Kuching (Optometry)": [
+                    { "serviceCode": "NIL" }
+                ],
+                "Melawati": [
+                    { "serviceCode": "Eye Check Up & AEE" }
+                ],
+                "Muar": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "OUG": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Penang": [
+                    { "serviceCode": "Paediatric/ Orthoptist" }
+                ],
+                "Bukit Mertajam": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Check & AEE" }
+                ],
+                "Segamat": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Seremban": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "ESC 2" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Seri Petaling": [
+                    { "serviceCode": "Paediatric" }
+                ],
+                "Shah Alam": [
+                    { "serviceCode": "ESC Dr Zai" },
+                    { "serviceCode": "ESC Dr Hafiz" },
+                    { "serviceCode": "AEE & Eye Check Up" }
+                ],
+                "Sunway": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "Sutera": [
+                    { "serviceCode": "ESC" },
+                    { "serviceCode": "Eye Examination" }
+                ],
+                "TTDI": [
+                    { "serviceCode": "Paediatric" }
+                ],
+                "TTES": [
+                    { "serviceCode": "NIL" }
+                ]
+            }
+        }
     }
-  }
-}
+]
