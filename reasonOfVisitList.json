@@ -1,10 +1,945 @@
-{
-  "Reason of Visit #1": {
-    "description": "something",
-    "branches": {
-      "BRANCH_CODE": {
-        "serviceCodes": ["XXXXXXX"]
-      }
+[
+    {
+        "LASIK Suitability Test (by Optometrist only)": {
+            "appointmentDuration": "2 hours",
+            "ageRange": "18 - 50 years old",
+            "description": [
+                {
+                    "To lay off contact lenses completely for the specified minimum duration before the eye test:": [
+                        "Soft lenses: 7 days",
+                        "Soft toric lenses (with astigmatism): 10 - 14 days",
+                        "Hard lenses / Ortho-K: 21 days"
+                    ]
+                },
+                "Pupil dilation will be done. There may be light sensitivity and blurring of near vision for 1-2 days.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "55337264F15D18BDF7841C04"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "8008546232BC63C125138B3E"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "634A0563E31FDEA153E79DB6"
+                    }
+                ],
+                "Elmina": [
+                    {
+                        "serviceCode": "55337264F15D18C0C3921C04"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24901B864"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24E01B864"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "55337265374790087F1D1C04"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25301B864"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "FAE82E5AE5E7A496423E6D3A"
+                    }
+                ],
+                "Kota Kemuning": [
+                    {
+                        "serviceCode": "695A3964633D74F1AA6571E3"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "81A5DC660E077CF8BADAEF1C"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25501B864",
+                        "operationTime": "For Sun - Monday appointments only"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "81A5DC66825683AF2F44EF1C",
+                        "operationTime": "For Tues - Saturday appointments only"
+                    }
+                ],
+                "Melawati": [
+                    {
+                        "serviceCode": "55337264F15D18C1F8971C04"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25B01B864"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "553372652909663CDE051C04"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25D01B864"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "55337264F15D18C569A61C04"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60015056D3A"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26201B864"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26C01B864"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26901B864"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E27001B864"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "8008546232BC63C3DD2C8B3E"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E27701B864"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Adult Complete Eye Examination (by Optometrist only)": {
+            "appointmentDuration": "2 hours",
+            "ageRange": "18 - 50 years old",
+            "description": [
+                "Kindly do not wear your contact lenses on the day of the eye test",
+                "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "55337264F15D18BDF7841C04"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "8008546232BC63C125138B3E"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "634A0563E31FDEA153E79DB6"
+                    }
+                ],
+                "Elmina": [
+                    {
+                        "serviceCode": "55337264F15D18C0C3921C04"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24901B864"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24E01B864"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "55337265374790087F1D1C04"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25301B864"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "FAE82E5AE5E7A496423E6D3A"
+                    }
+                ],
+                "Kota Kemuning": [
+                    {
+                        "serviceCode": "695A3964633D74F1AA6571E3"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "81A5DC660E077CF8BADAEF1C"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25501B864",
+                        "operationTime": "For Sun - Monday appointments only"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "81A5DC66825683AF2F44EF1C",
+                        "operationTime": "For Tues - Saturday appointments only"
+                    }
+                ],
+                "Melawati": [
+                    {
+                        "serviceCode": "55337264F15D18C1F8971C04"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25B01B864"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "553372652909663CDE051C04"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25D01B864"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "55337264F15D18C569A61C04"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60015056D3A"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26201B864"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26C01B864"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26901B864"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26F01B864"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "8008546232BC63C3DD2C8B3E"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E27701B864"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "After LASIK Eye Check-ups & Annual Eye Examinations (by Optometrist only)": {
+            "appointmentDuration": "30 minutes",
+            "description": [
+                "Only for existing patients who underwent LASIK surgery with Optimax Eye Specialist Centre.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "15BF8166F619D224544D7173"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "8008546232BC63C0C20D8B3E"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "49E27163886F6348948E0BE1"
+                    }
+                ],
+                "Elmina": [
+                    {
+                        "serviceCode": "55337264F15D18C0C3921C04"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24801B864"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24C01B864"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "695A39644B7F28909A1A71E3"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25101B864"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "FAE82E5AE5E7A49623366D3A"
+                    }
+                ],
+                "Kota Kemuning": [
+                    {
+                        "serviceCode": "695A3964633D74F1AA6571E3"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "55337264F15D18C3439D1C04"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25801B864",
+                        "operationTime": "For Sun - Monday appointments only"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "81A5DC66825683AF2F44EF1C",
+                        "operationTime": "For Tues - Saturday appointments only"
+                    }
+                ],
+                "Melawati": [
+                    {
+                        "serviceCode": "55337264F15D18C1F8971C04"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25901B864"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "634A0563B6503D7A03219DB6"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25D01B864"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "55337264F15D18C569A61C04"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60015056D3A"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26401B864"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26B01B864"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26601B864"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26F01B864"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "8008546232BC63C1C2248B3E"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E27501B864"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Follow-up appointment with my current Eye Doctor": {
+            "appointmentDuration": "30 minutes",
+            "description": [
+                "Visits may take up to 2 hours, depending on the case.",
+                "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
+                    },
+                    {
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "8008546232BC63C063078B3E"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "5533726500304133A0F81C04"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24701B864"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24B01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24F01B864"
+                    },
+                    {
+                        "serviceCode": "FA0CDE614193C004625CBBD8"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "553372653747900B2D221C04"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25201B864"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "FAE82E5AE5E7A495E8266D3A"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "81A5DC660E077CF523D2EF1C"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25701B864"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "NIL"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25C01B864"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "5533726529086638F6FD1C04"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25F01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26001B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26101B864"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "81A5DC664AEB77E506F0EF1C"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60051126D3A"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26501B864"
+                    },
+                    {
+                        "serviceCode": "88F62760E5A3B3AB912BD3C1"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26A01B864"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26801B864"
+                    },
+                    {
+                        "serviceCode": "A7AC38640946CB988E6F4CD3"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26E01B864"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "8008546232BC63C17B1C8B3E"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E27C01B864"
+                    },
+                    {
+                        "serviceCode": "FAE82E5AD709AF2553486D3A"
+                    },
+                    {
+                        "serviceCode": "8008546243BBBB330AF18B3E"
+                    },
+                    {
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
+                    },
+                    {
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Cataract / Eye Disease examination (by Eye Doctor)": {
+            "appointmentDuration": "30 minutes",
+            "description": [
+                "Visits may take up to 2 hours, depending on the case.",
+                "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
+                "Please bring along a pair of sunglasses, especially if you are driving."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
+                    },
+                    {
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "8008546232BC63C063078B3E"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "5533726500304133A0F81C04"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24701B864"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24B01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24F01B864"
+                    },
+                    {
+                        "serviceCode": "FA0CDE614193C004625CBBD8"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "553372653747900B2D221C04"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25201B864"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "FAE82E5AE5E7A495E8266D3A"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "81A5DC660E077CF523D2EF1C"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25701B864"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "NIL"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25C01B864"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "5533726529086638F6FD1C04"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25F01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26001B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26101B864"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "81A5DC664AEB77E506F0EF1C"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60051126D3A"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26501B864"
+                    },
+                    {
+                        "serviceCode": "88F62760E5A3B3AB912BD3C1"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26A01B864"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26801B864"
+                    },
+                    {
+                        "serviceCode": "A7AC38640946CB988E6F4CD3"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26E01B864"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "8008546232BC63C17B1C8B3E"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E27C01B864"
+                    },
+                    {
+                        "serviceCode": "FAE82E5AD709AF2553486D3A"
+                    },
+                    {
+                        "serviceCode": "8008546243BBBB330AF18B3E"
+                    },
+                    {
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
+                    },
+                    {
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "Children Complete Eye Examination": {
+            "appointmentDuration": "30 - 60 minutes",
+            "ageRange": "5 - 17 years old",
+            "description": [
+                "Eye Examination may be performed by both Optometrists and Eye Doctors (case dependent).",
+                "Visits may take up to 2 hours, depending on the case.",
+                "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 1-2 days."
+            ],
+            "branches": {
+                "Atria (ACC)": [
+                    {
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
+                    },
+                    {
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
+                    },
+                    {
+                        "serviceCode": "55337264F15D18BDF7841C04"
+                    }
+                ],
+                "Bahau": [
+                    {
+                        "serviceCode": "8008546232BC63C063078B3E"
+                    },
+                    {
+                        "serviceCode": "8008546232BC63C125138B3E"
+                    }
+                ],
+                "Cheras Selatan": [
+                    {
+                        "serviceCode": "5533726500304133A0F81C04"
+                    },
+                    {
+                        "serviceCode": "634A0563E31FDEA153E79DB6"
+                    }
+                ],
+                "Elmina": [
+                    {
+                        "serviceCode": "55337264F15D18C0C3921C04"
+                    }
+                ],
+                "Ipoh": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24701B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24901B864"
+                    }
+                ],
+                "Johor": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24B01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24F01B864"
+                    },
+                    {
+                        "serviceCode": "FA0CDE614193C004625CBBD8"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24E01B864"
+                    }
+                ],
+                "Kepong": [
+                    {
+                        "serviceCode": "553372653747900B2D221C04"
+                    },
+                    {
+                        "serviceCode": "55337265374790087F1D1C04"
+                    }
+                ],
+                "Klang": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25201B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25301B864"
+                    }
+                ],
+                "Kluang": [
+                    {
+                        "serviceCode": "FAE82E5AE5E7A495E8266D3A"
+                    },
+                    {
+                        "serviceCode": "FAE82E5AE5E7A496423E6D3A"
+                    }
+                ],
+                "Kota Kemuning": [
+                    {
+                        "serviceCode": "695A3964633D74F1AA6571E3"
+                    }
+                ],
+                "Kota Kinabalu": [
+                    {
+                        "serviceCode": "81A5DC660E077CF523D2EF1C"
+                    },
+                    {
+                        "serviceCode": "81A5DC660E077CF8BADAEF1C"
+                    }
+                ],
+                "Kuching": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25701B864"
+                    }
+                ],
+                "Kuching (Optometry)": [
+                    {
+                        "serviceCode": "NIL"
+                    }
+                ],
+                "Melawati": [
+                    {
+                        "serviceCode": "55337264F15D18C1F8971C04"
+                    }
+                ],
+                "Muar": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25C01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25B01B864"
+                    }
+                ],
+                "OUG": [
+                    {
+                        "serviceCode": "5533726529086638F6FD1C04"
+                    },
+                    {
+                        "serviceCode": "553372652909663CDE051C04"
+                    }
+                ],
+                "Penang": [
+                    {
+                        "serviceCode": "15BF8166EBB639E94CD47173"
+                    }
+                ],
+                "Bukit Mertajam": [
+                    {
+                        "serviceCode": "81A5DC664AEB77E506F0EF1C"
+                    },
+                    {
+                        "serviceCode": "55337264F15D18C569A61C04"
+                    }
+                ],
+                "Segamat": [
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60051126D3A"
+                    },
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60015056D3A"
+                    }
+                ],
+                "Seremban": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26501B864"
+                    },
+                    {
+                        "serviceCode": "88F62760E5A3B3AB912BD3C1"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26201B864"
+                    }
+                ],
+                "Seri Petaling": [
+                    {
+                        "serviceCode": "57578C677DE95AB9E8575F70"
+                    }
+                ],
+                "Shah Alam": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26801B864"
+                    },
+                    {
+                        "serviceCode": "A7AC38640946CB988E6F4CD3"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26601B864"
+                    }
+                ],
+                "Sunway": [
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26E01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E27001B864"
+                    }
+                ],
+                "Sutera": [
+                    {
+                        "serviceCode": "8008546232BC63C17B1C8B3E"
+                    },
+                    {
+                        "serviceCode": "8008546232BC63C3DD2C8B3E"
+                    }
+                ],
+                "TTDI": [
+                    {
+                        "serviceCode": "83865560AF44A000DDF480E6"
+                    }
+                ],
+                "TTES": [
+                    {
+                        "serviceCode": "NIL"
+                    }
+                ]
+            }
+        }
     }
-  }
-}
+]
