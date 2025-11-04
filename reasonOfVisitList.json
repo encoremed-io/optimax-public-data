@@ -17,129 +17,129 @@
             "branches": {
                 "Atria (ACC)": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "55337264F15D18BDF7841C04"
                     }
                 ],
                 "Bahau": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "8008546232BC63C125138B3E"
                     }
                 ],
                 "Cheras Selatan": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "634A0563E31FDEA153E79DB6"
                     }
                 ],
                 "Elmina": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C0C3921C04"
                     }
                 ],
                 "Ipoh": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E24901B864"
                     }
                 ],
                 "Johor": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E24E01B864"
                     }
                 ],
                 "Kepong": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "55337265374790087F1D1C04"
                     }
                 ],
                 "Klang": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E25301B864"
                     }
                 ],
                 "Kluang": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "FAE82E5AE5E7A496423E6D3A"
                     }
                 ],
                 "Kota Kemuning": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "695A3964633D74F1AA6571E3"
                     }
                 ],
                 "Kota Kinabalu": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "81A5DC660E077CF8BADAEF1C"
                     }
                 ],
                 "Kuching": [
                     {
-                        "serviceCode": "Eye Examination",
+                        "serviceCode": "2C5B7C0DC00565E25501B864",
                         "operationTime": "For Sun - Monday appointments only"
-                }
+                    }
                 ],
                 "Kuching (Optometry)": [
                     {
-                        "serviceCode": "Eye Examination , CK & AEE",
+                        "serviceCode": "81A5DC66825683AF2F44EF1C",
                         "operationTime": "For Tues - Saturday appointments only"
                     }
                 ],
                 "Melawati": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C1F8971C04"
                     }
                 ],
                 "Muar": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E25B01B864"
                     }
                 ],
                 "OUG": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "553372652909663CDE051C04"
                     }
                 ],
                 "Penang": [
                     {
-                        "serviceCode": "Eye Examination And Checkup"
+                        "serviceCode": "2C5B7C0DC00565E25D01B864"
                     }
                 ],
                 "Bukit Mertajam": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C569A61C04"
                     }
                 ],
                 "Segamat": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "FAE82E5AAF5FF60015056D3A"
                     }
                 ],
                 "Seremban": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E26201B864"
                     }
                 ],
                 "Seri Petaling": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E26C01B864"
                     }
                 ],
                 "Shah Alam": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E26901B864"
                     }
                 ],
                 "Sunway": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E27001B864"
                     }
                 ],
                 "Sutera": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "8008546232BC63C3DD2C8B3E"
                     }
                 ],
                 "TTDI": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E27701B864"
                     }
                 ]
             }
@@ -157,132 +157,132 @@
             "branches": {
                 "Atria (ACC)": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "55337264F15D18BDF7841C04"
                     }
                 ],
                 "Bahau": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "8008546232BC63C125138B3E"
                     }
                 ],
                 "Cheras Selatan": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "634A0563E31FDEA153E79DB6"
                     }
                 ],
                 "Elmina": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C0C3921C04"
                     }
                 ],
                 "Ipoh": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E24901B864"
                     }
                 ],
                 "Johor": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E24E01B864"
                     }
                 ],
                 "Kepong": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "55337265374790087F1D1C04"
                     }
                 ],
                 "Klang": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E25301B864"
                     }
                 ],
                 "Kluang": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "FAE82E5AE5E7A496423E6D3A"
                     }
                 ],
                 "Kota Kemuning": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "695A3964633D74F1AA6571E3"
                     }
                 ],
                 "Kota Kinabalu": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "81A5DC660E077CF8BADAEF1C"
                     }
                 ],
                 "Kuching": [
                     {
-                        "serviceCode": "Eye Examination",
+                        "serviceCode": "2C5B7C0DC00565E25501B864",
                         "operationTime": "For Sun - Monday appointments only"
                     }
                 ],
                 "Kuching (Optometry)": [
                     {
-                        "serviceCode": "Eye Examination , CK & AEE",
+                        "serviceCode": "81A5DC66825683AF2F44EF1C",
                         "operationTime": "For Tues - Saturday appointments only"
                     }
                 ],
                 "Melawati": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C1F8971C04"
                     }
                 ],
                 "Muar": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E25B01B864"
                     }
                 ],
                 "OUG": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "553372652909663CDE051C04"
                     }
                 ],
                 "Penang": [
                     {
-                        "serviceCode": "Eye Examination And Checkup"
+                        "serviceCode": "2C5B7C0DC00565E25D01B864"
                     }
                 ],
                 "Bukit Mertajam": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C569A61C04"
                     }
                 ],
                 "Segamat": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "FAE82E5AAF5FF60015056D3A"
                     }
                 ],
                 "Seremban": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E26201B864"
                     }
                 ],
                 "Seri Petaling": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E26C01B864"
                     }
                 ],
                 "Shah Alam": [
                     {
-                        "serviceCode": "Eye Examination And Checkup"
+                        "serviceCode": "2C5B7C0DC00565E26901B864"
                     }
                 ],
                 "Sunway": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "2C5B7C0DC00565E26F01B864"
                     }
                 ],
                 "Sutera": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "8008546232BC63C3DD2C8B3E"
                     }
                 ],
                 "TTDI": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "2C5B7C0DC00565E27701B864"
                     }
                 ]
-                }
+            }
         }
     },
     {
@@ -295,129 +295,129 @@
             "branches": {
                 "Atria (ACC)": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "15BF8166F619D224544D7173"
                     }
                 ],
                 "Bahau": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "8008546232BC63C0C20D8B3E"
                     }
                 ],
                 "Cheras Selatan": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "49E27163886F6348948E0BE1"
                     }
                 ],
                 "Elmina": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C0C3921C04"
                     }
                 ],
                 "Ipoh": [
                     {
-                        "serviceCode": "Eye Check-up and Annual EE"
+                        "serviceCode": "2C5B7C0DC00565E24801B864"
                     }
                 ],
                 "Johor": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "2C5B7C0DC00565E24C01B864"
                     }
                 ],
                 "Kepong": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "695A39644B7F28909A1A71E3"
                     }
                 ],
                 "Klang": [
                     {
-                        "serviceCode": "Eye Check-up and AEE"
+                        "serviceCode": "2C5B7C0DC00565E25101B864"
                     }
                 ],
                 "Kluang": [
                     {
-                        "serviceCode": "Eye Check-up and Annual EE"
+                        "serviceCode": "FAE82E5AE5E7A49623366D3A"
                     }
                 ],
                 "Kota Kemuning": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "695A3964633D74F1AA6571E3"
                     }
                 ],
                 "Kota Kinabalu": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C3439D1C04"
                     }
                 ],
                 "Kuching": [
                     {
-                        "serviceCode": "Eye Check-up & AEE",
+                        "serviceCode": "2C5B7C0DC00565E25801B864",
                         "operationTime": "For Sun - Monday appointments only"
                     }
                 ],
                 "Kuching (Optometry)": [
                     {
-                        "serviceCode": "Eye Examination , CK & AEE",
+                        "serviceCode": "81A5DC66825683AF2F44EF1C",
                         "operationTime": "For Tues - Saturday appointments only"
                     }
                 ],
                 "Melawati": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C1F8971C04"
                     }
                 ],
                 "Muar": [
                     {
-                        "serviceCode": "Eye Check-up & Annual EE"
+                        "serviceCode": "2C5B7C0DC00565E25901B864"
                     }
                 ],
                 "OUG": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "634A0563B6503D7A03219DB6"
                     }
                 ],
                 "Penang": [
                     {
-                        "serviceCode": "Eye Examination And Checkup"
+                        "serviceCode": "2C5B7C0DC00565E25D01B864"
                     }
                 ],
                 "Bukit Mertajam": [
                     {
-                        "serviceCode": "Eye Check-up & AEE"
+                        "serviceCode": "55337264F15D18C569A61C04"
                     }
                 ],
                 "Segamat": [
                     {
-                        "serviceCode": "Eye Examination"
+                        "serviceCode": "FAE82E5AAF5FF60015056D3A"
                     }
                 ],
                 "Seremban": [
                     {
-                        "serviceCode": "Eye Check-up"
+                        "serviceCode": "2C5B7C0DC00565E26401B864"
                     }
                 ],
                 "Seri Petaling": [
                     {
-                        "serviceCode": "Eye Check-up And Annual EE"
+                        "serviceCode": "2C5B7C0DC00565E26B01B864"
                     }
                 ],
                 "Shah Alam": [
                     {
-                        "serviceCode": "AEE & Eye Check-up"
+                        "serviceCode": "2C5B7C0DC00565E26601B864"
                     }
                 ],
                 "Sunway": [
                     {
-                        "serviceCode": "Eye Check-up And Annual EE"
+                        "serviceCode": "2C5B7C0DC00565E26F01B864"
                     }
                 ],
                 "Sutera": [
                     {
-                        "serviceCode": "Eye Check-up & Annual EE"
+                        "serviceCode": "8008546232BC63C1C2248B3E"
                     }
                 ],
                 "TTDI": [
                     {
-                        "serviceCode": "Eye Check-up And Annual EE"
+                        "serviceCode": "2C5B7C0DC00565E27501B864"
                     }
                 ]
             }
@@ -434,61 +434,61 @@
             "branches": {
                 "Atria (ACC)": [
                     {
-                        "serviceCode": "Dr Muiz"
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
                     },
                     {
-                        "serviceCode": "Dr Ng Chun Wai"
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
                     }
                 ],
                 "Bahau": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "8008546232BC63C063078B3E"
                     }
                 ],
                 "Cheras Selatan": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "5533726500304133A0F81C04"
                     }
                 ],
                 "Ipoh": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E24701B864"
                     }
                 ],
                 "Johor": [
                     {
-                        "serviceCode": "ESC 1"
+                        "serviceCode": "2C5B7C0DC00565E24B01B864"
                     },
                     {
-                        "serviceCode": "ESC 2"
+                        "serviceCode": "2C5B7C0DC00565E24F01B864"
                     },
                     {
-                        "serviceCode": "ESC 3"
+                        "serviceCode": "FA0CDE614193C004625CBBD8"
                     }
                 ],
                 "Kepong": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "553372653747900B2D221C04"
                     }
                 ],
                 "Klang": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E25201B864"
                     }
                 ],
                 "Kluang": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "FAE82E5AE5E7A495E8266D3A"
                     }
                 ],
                 "Kota Kinabalu": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "81A5DC660E077CF523D2EF1C"
                     }
                 ],
                 "Kuching": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E25701B864"
                     }
                 ],
                 "Kuching (Optometry)": [
@@ -498,84 +498,84 @@
                 ],
                 "Muar": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E25C01B864"
                     }
                 ],
                 "OUG": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "5533726529086638F6FD1C04"
                     }
                 ],
                 "Penang": [
                     {
-                        "serviceCode": "Dr Lee"
+                        "serviceCode": "2C5B7C0DC00565E25F01B864"
                     },
                     {
-                        "serviceCode": "Dr Ang"
+                        "serviceCode": "2C5B7C0DC00565E26001B864"
                     },
                     {
-                        "serviceCode": "Dr Edwin"
+                        "serviceCode": "2C5B7C0DC00565E26101B864"
                     }
                 ],
                 "Bukit Mertajam": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "81A5DC664AEB77E506F0EF1C"
                     }
                 ],
                 "Segamat": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "FAE82E5AAF5FF60051126D3A"
                     }
                 ],
                 "Seremban": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E26501B864"
                     },
                     {
-                        "serviceCode": "ESC 2"
+                        "serviceCode": "88F62760E5A3B3AB912BD3C1"
                     }
                 ],
                 "Seri Petaling": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E26A01B864"
                     }
                 ],
                 "Shah Alam": [
                     {
-                        "serviceCode": "ESC Dr Zai"
+                        "serviceCode": "2C5B7C0DC00565E26801B864"
                     },
                     {
-                        "serviceCode": "ESC Dr Hafiz"
+                        "serviceCode": "A7AC38640946CB988E6F4CD3"
                     }
                 ],
                 "Sunway": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E26E01B864"
                     }
                 ],
                 "Sutera": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "8008546232BC63C17B1C8B3E"
                     }
                 ],
                 "TTDI": [
                     {
-                        "serviceCode": "Dr Chuah Kay Leong"
+                        "serviceCode": "2C5B7C0DC00565E27C01B864"
                     },
                     {
-                        "serviceCode": "Dr Adeline Sia"
+                        "serviceCode": "FAE82E5AD709AF2553486D3A"
                     },
                     {
-                        "serviceCode": "Dr Tang Seng Fai"
+                        "serviceCode": "8008546243BBBB330AF18B3E"
                     },
                     {
-                        "serviceCode": "Dr Muiz"
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
                     },
                     {
-                        "serviceCode": "Dr Ng Chun Wai"
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
                     }
                 ]
-                }
+            }
         }
     },
     {
@@ -589,61 +589,61 @@
             "branches": {
                 "Atria (ACC)": [
                     {
-                        "serviceCode": "Dr Muiz"
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
                     },
                     {
-                        "serviceCode": "Dr Ng Chun Wai"
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
                     }
                 ],
                 "Bahau": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "8008546232BC63C063078B3E"
                     }
                 ],
                 "Cheras Selatan": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "5533726500304133A0F81C04"
                     }
                 ],
                 "Ipoh": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E24701B864"
                     }
                 ],
                 "Johor": [
                     {
-                        "serviceCode": "ESC 1"
+                        "serviceCode": "2C5B7C0DC00565E24B01B864"
                     },
                     {
-                        "serviceCode": "ESC 2"
+                        "serviceCode": "2C5B7C0DC00565E24F01B864"
                     },
                     {
-                        "serviceCode": "ESC 3"
+                        "serviceCode": "FA0CDE614193C004625CBBD8"
                     }
                 ],
                 "Kepong": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "553372653747900B2D221C04"
                     }
                 ],
                 "Klang": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E25201B864"
                     }
                 ],
                 "Kluang": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "FAE82E5AE5E7A495E8266D3A"
                     }
                 ],
                 "Kota Kinabalu": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "81A5DC660E077CF523D2EF1C"
                     }
                 ],
                 "Kuching": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E25701B864"
                     }
                 ],
                 "Kuching (Optometry)": [
@@ -653,81 +653,81 @@
                 ],
                 "Muar": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E25C01B864"
                     }
                 ],
                 "OUG": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "5533726529086638F6FD1C04"
                     }
                 ],
                 "Penang": [
                     {
-                        "serviceCode": "Dr Lee"
+                        "serviceCode": "2C5B7C0DC00565E25F01B864"
                     },
                     {
-                        "serviceCode": "Dr Ang"
+                        "serviceCode": "2C5B7C0DC00565E26001B864"
                     },
                     {
-                        "serviceCode": "Dr Edwin"
+                        "serviceCode": "2C5B7C0DC00565E26101B864"
                     }
                 ],
                 "Bukit Mertajam": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "81A5DC664AEB77E506F0EF1C"
                     }
                 ],
                 "Segamat": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "FAE82E5AAF5FF60051126D3A"
                     }
                 ],
                 "Seremban": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E26501B864"
                     },
                     {
-                        "serviceCode": "ESC 2"
+                        "serviceCode": "88F62760E5A3B3AB912BD3C1"
                     }
                 ],
                 "Seri Petaling": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E26A01B864"
                     }
                 ],
                 "Shah Alam": [
                     {
-                        "serviceCode": "ESC Dr Zai"
+                        "serviceCode": "2C5B7C0DC00565E26801B864"
                     },
                     {
-                        "serviceCode": "ESC Dr Hafiz"
+                        "serviceCode": "A7AC38640946CB988E6F4CD3"
                     }
                 ],
                 "Sunway": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "2C5B7C0DC00565E26E01B864"
                     }
                 ],
                 "Sutera": [
                     {
-                        "serviceCode": "ESC"
+                        "serviceCode": "8008546232BC63C17B1C8B3E"
                     }
                 ],
                 "TTDI": [
                     {
-                        "serviceCode": "Dr Chuah Kay Leong"
+                        "serviceCode": "2C5B7C0DC00565E27C01B864"
                     },
                     {
-                        "serviceCode": "Dr Adeline Sia"
+                        "serviceCode": "FAE82E5AD709AF2553486D3A"
                     },
                     {
-                        "serviceCode": "Dr Tang Seng Fai"
+                        "serviceCode": "8008546243BBBB330AF18B3E"
                     },
                     {
-                        "serviceCode": "Dr Muiz"
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
                     },
                     {
-                        "serviceCode": "Dr Ng Chun Wai"
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
                     }
                 ]
             }
@@ -744,104 +744,200 @@
             ],
             "branches": {
                 "Atria (ACC)": [
-                    { "serviceCode": "Dr Muiz" },
-                    { "serviceCode": "Dr Ng Chun Wai" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "81A5DC65DA6CFB61A2B3EF1C"
+                    },
+                    {
+                        "serviceCode": "81A5DC667D12F60994D7EF1C"
+                    },
+                    {
+                        "serviceCode": "55337264F15D18BDF7841C04"
+                    }
                 ],
                 "Bahau": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "8008546232BC63C063078B3E"
+                    },
+                    {
+                        "serviceCode": "8008546232BC63C125138B3E"
+                    }
                 ],
                 "Cheras Selatan": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "5533726500304133A0F81C04"
+                    },
+                    {
+                        "serviceCode": "634A0563E31FDEA153E79DB6"
+                    }
                 ],
                 "Elmina": [
-                    { "serviceCode": "Eye Check-up & AEE" }
+                    {
+                        "serviceCode": "55337264F15D18C0C3921C04"
+                    }
                 ],
                 "Ipoh": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24701B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24901B864"
+                    }
                 ],
                 "Johor": [
-                    { "serviceCode": "ESC 1" },
-                    { "serviceCode": "ESC 2" },
-                    { "serviceCode": "ESC 3" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24B01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24F01B864"
+                    },
+                    {
+                        "serviceCode": "FA0CDE614193C004625CBBD8"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E24E01B864"
+                    }
                 ],
                 "Kepong": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "553372653747900B2D221C04"
+                    },
+                    {
+                        "serviceCode": "55337265374790087F1D1C04"
+                    }
                 ],
                 "Klang": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25201B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25301B864"
+                    }
                 ],
                 "Kluang": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "FAE82E5AE5E7A495E8266D3A"
+                    },
+                    {
+                        "serviceCode": "FAE82E5AE5E7A496423E6D3A"
+                    }
                 ],
                 "Kota Kemuning": [
-                    { "serviceCode": "Eye Check-up & AEE" }
+                    {
+                        "serviceCode": "695A3964633D74F1AA6571E3"
+                    }
                 ],
                 "Kota Kinabalu": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "81A5DC660E077CF523D2EF1C"
+                    },
+                    {
+                        "serviceCode": "81A5DC660E077CF8BADAEF1C"
+                    }
                 ],
                 "Kuching": [
-                    { "serviceCode": "ESC" }
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25701B864"
+                    }
                 ],
                 "Kuching (Optometry)": [
-                    { "serviceCode": "NIL" }
+                    {
+                        "serviceCode": "NIL"
+                    }
                 ],
                 "Melawati": [
-                    { "serviceCode": "Eye Check Up & AEE" }
+                    {
+                        "serviceCode": "55337264F15D18C1F8971C04"
+                    }
                 ],
                 "Muar": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25C01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E25B01B864"
+                    }
                 ],
                 "OUG": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "5533726529086638F6FD1C04"
+                    },
+                    {
+                        "serviceCode": "553372652909663CDE051C04"
+                    }
                 ],
                 "Penang": [
-                    { "serviceCode": "Paediatric/ Orthoptist" }
+                    {
+                        "serviceCode": "15BF8166EBB639E94CD47173"
+                    }
                 ],
                 "Bukit Mertajam": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Check & AEE" }
+                    {
+                        "serviceCode": "81A5DC664AEB77E506F0EF1C"
+                    },
+                    {
+                        "serviceCode": "55337264F15D18C569A61C04"
+                    }
                 ],
                 "Segamat": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60051126D3A"
+                    },
+                    {
+                        "serviceCode": "FAE82E5AAF5FF60015056D3A"
+                    }
                 ],
                 "Seremban": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "ESC 2" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26501B864"
+                    },
+                    {
+                        "serviceCode": "88F62760E5A3B3AB912BD3C1"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26201B864"
+                    }
                 ],
                 "Seri Petaling": [
-                    { "serviceCode": "Paediatric" }
+                    {
+                        "serviceCode": "57578C677DE95AB9E8575F70"
+                    }
                 ],
                 "Shah Alam": [
-                    { "serviceCode": "ESC Dr Zai" },
-                    { "serviceCode": "ESC Dr Hafiz" },
-                    { "serviceCode": "AEE & Eye Check Up" }
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26801B864"
+                    },
+                    {
+                        "serviceCode": "A7AC38640946CB988E6F4CD3"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26601B864"
+                    }
                 ],
                 "Sunway": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "2C5B7C0DC00565E26E01B864"
+                    },
+                    {
+                        "serviceCode": "2C5B7C0DC00565E27001B864"
+                    }
                 ],
                 "Sutera": [
-                    { "serviceCode": "ESC" },
-                    { "serviceCode": "Eye Examination" }
+                    {
+                        "serviceCode": "8008546232BC63C17B1C8B3E"
+                    },
+                    {
+                        "serviceCode": "8008546232BC63C3DD2C8B3E"
+                    }
                 ],
                 "TTDI": [
-                    { "serviceCode": "Paediatric" }
+                    {
+                        "serviceCode": "83865560AF44A000DDF480E6"
+                    }
                 ],
                 "TTES": [
-                    { "serviceCode": "NIL" }
+                    {
+                        "serviceCode": "NIL"
+                    }
                 ]
             }
         }
