@@ -2,7 +2,10 @@
   {
     "name": "LASIK Suitability Test (by Optometrist only)",
     "appointmentDuration": "2 hours",
-    "ageRange": "18 - 50 years old",
+    "ageRange": {
+      "min": 18,
+      "max": 50
+    },
     "description": [
       {
         "To lay off contact lenses completely for the specified minimum duration before the eye test:": [
@@ -147,7 +150,10 @@
   {
     "name": "Adult Complete Eye Examination (by Optometrist only)",
     "appointmentDuration": "2 hours",
-    "ageRange": "18 - 50 years old",
+    "ageRange": {
+      "min": 18,
+      "max": 50
+    },
     "description": [
       "Kindly do not wear your contact lenses on the day of the eye test",
       "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
@@ -731,7 +737,10 @@
   {
     "name": "Children Complete Eye Examination",
     "appointmentDuration": "30 - 60 minutes",
-    "ageRange": "5 - 17 years old",
+    "ageRange": {
+      "min": 5,
+      "max": 17
+    },
     "description": [
       "Eye Examination may be performed by both Optometrists and Eye Doctors (case dependent).",
       "Visits may take up to 2 hours, depending on the case.",
