@@ -23,7 +23,11 @@
       "waze": "waze://?ll=3.1410844,101.6262983&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/wcLryMCG4iuTpCXV9"
     },
-    "imageUrl": "/images/branch/ttdi.jpg"
+    "imageUrl": "/images/branch/ttdi.jpg",
+    "coordinate": {
+      "latitude": 3.1410844,
+      "longitude": 101.6262983
+    }
   },
   {
     "name": "Sri Petaling",
@@ -48,7 +52,11 @@
       "waze": "waze://?ll=3.071027,101.692269&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/4Eegste7dgm5LU4i9"
     },
-    "imageUrl": "/images/branch/sriPetaling.jpg"
+    "imageUrl": "/images/branch/sriPetaling.jpg",
+    "coordinate": {
+      "latitude": 3.071027,
+      "longitude": 101.692269
+    }
   },
   {
     "name": "Cheras",
@@ -58,7 +66,8 @@
       "street2": "Jalan Dataran Cheras 7",
       "street3": "Balakong",
       "postcode": "43200",
-      "city": "Cheras, Selangor"
+      "city": "Cheras",
+      "state": "Selangor"
     },
     "contact": {
       "phone": "+603-8966 1600",
@@ -73,7 +82,11 @@
       "waze": "waze://?ll=3.0355107,101.7633199&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/uwojBKHRzYWgzm327"
     },
-    "imageUrl": "/images/branch/cheras.png"
+    "imageUrl": "/images/branch/cheras.png",
+    "coordinate": {
+      "latitude": 3.0355107,
+      "longitude": 101.7633199
+    }
   },
   {
     "name": "Kepong",
@@ -97,7 +110,11 @@
       "waze": "waze://?ll=3.1951152,101.6317355&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/8Xnr1NkuUCPe5ZrP6"
     },
-    "imageUrl": "/images/branch/kepong.jpg"
+    "imageUrl": "/images/branch/kepong.jpg",
+    "coordinate": {
+      "latitude": 3.1951152,
+      "longitude": 101.6317355
+    }
   },
   {
     "name": "Melawati",
@@ -111,12 +128,18 @@
     "contact": {
       "phone": "+603-7890 0160"
     },
-    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
+    "businessHours": [
+      "Tuesday to Saturday: 9.00am - 6.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=3.2100947,101.7519149&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/XsYCcp8zzKKmJPNW6"
     },
-    "imageUrl": "/images/branch/melawati.jpg"
+    "imageUrl": "/images/branch/melawati.jpg",
+    "coordinate": {
+      "latitude": 3.2100947,
+      "longitude": 101.7519149
+    }
   },
   {
     "name": "OUG (Overseas Union Garden)",
@@ -140,7 +163,11 @@
       "waze": "waze://?ll=3.0355161,101.7611312&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/knvRAfR38RKG3W9b8"
     },
-    "imageUrl": "/images/branch/oug.jpg"
+    "imageUrl": "/images/branch/oug.jpg",
+    "coordinate": {
+      "latitude": 3.0355161,
+      "longitude": 101.7611312
+    }
   },
   {
     "name": "Damansara Jaya",
@@ -149,19 +176,26 @@
       "street1": "C38-40, Concourse Floor, Atria Shopping Gallery",
       "street2": "Jalan SS22/23, Damansara Jaya",
       "postcode": "47400",
-      "city": "Petaling Jaya, Selangor"
+      "city": "Petaling Jaya",
+      "state": "Selangor"
     },
     "contact": {
       "phone": "+603-7890 0168",
       "whatsapp": "+6014-658 8101",
       "email": "damansarajaya@optimax.com.my"
     },
-    "businessHours": ["Monday to Sunday: 10.00am - 7.00pm"],
+    "businessHours": [
+      "Monday to Sunday: 10.00am - 7.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=3.1270963,101.6139427&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/e6AtKDyUurVdDpMH8"
     },
-    "imageUrl": "/images/branch/atria.jpg"
+    "imageUrl": "/images/branch/atria.jpg",
+    "coordinate": {
+      "latitude": 3.1270963,
+      "longitude": 101.6139427
+    }
   },
   {
     "name": "Bandar Sunway",
@@ -170,7 +204,8 @@
       "street1": "No. 11 Ground Floor, Jalan PJS 11/28B",
       "street2": "Bandar Sunway",
       "postcode": "46150",
-      "city": "Petaling Jaya, Selangor"
+      "city": "Petaling Jaya",
+      "state": "Selangor"
     },
     "contact": {
       "phone": "+603-8084 1212",
@@ -178,12 +213,18 @@
       "fax": "+603-5638 4225",
       "email": "bandarsunway@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Sunday: 8.00am - 5.00pm"],
+    "businessHours": [
+      "Monday to Sunday: 8.00am - 5.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=3.0721714,101.6071033&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/PpCwCDBEuZPruYwH7"
     },
-    "imageUrl": "/images/branch/sunway.jpg"
+    "imageUrl": "/images/branch/sunway.jpg",
+    "coordinate": {
+      "latitude": 3.0721714,
+      "longitude": 101.6071033
+    }
   },
   {
     "name": "Elmina",
@@ -192,19 +233,26 @@
       "street1": "No. 35-G, Jalan Eserina AA U16/AA",
       "street2": "Elmina East, Seksyen U16",
       "postcode": "40160",
-      "city": "Shah Alam, Selangor"
+      "city": "Shah Alam",
+      "state": "Selangor"
     },
     "contact": {
       "phone": "+603-5870 1830",
       "whatsapp": "+6019-357 9111",
       "email": "elmina@optimax.com.my"
     },
-    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
+    "businessHours": [
+      "Tuesday to Saturday: 9.00am - 6.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=3.1624562,101.5733949&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/aFmYydWF3bX8Lmqg8"
     },
-    "imageUrl": "/images/branch/elmina.jpg"
+    "imageUrl": "/images/branch/elmina.jpg",
+    "coordinate": {
+      "latitude": 3.1624562,
+      "longitude": 101.5733949
+    }
   },
   {
     "name": "Kota Kemuning",
@@ -213,19 +261,26 @@
       "street1": "No. 43-G, Jalan Anggerik Vanilla BF 31/BF",
       "street2": "Kota Kemuning",
       "postcode": "40460",
-      "city": "Shah Alam, Selangor"
+      "city": "Shah Alam",
+      "state": "Selangor"
     },
     "contact": {
       "phone": "+603-5870 1828",
       "whatsapp": "+6016-350 7101",
       "email": "kotakemuning@optimax.com.my"
     },
-    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
+    "businessHours": [
+      "Tuesday to Saturday: 9.00am - 6.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=3.004465,101.535324&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/FGcKxCct2HJ7mujH6"
     },
-    "imageUrl": "/images/branch/kotaKemuning.jpg"
+    "imageUrl": "/images/branch/kotaKemuning.jpg",
+    "coordinate": {
+      "latitude": 3.004465,
+      "longitude": 101.535324
+    }
   },
   {
     "name": "Shah Alam",
@@ -234,7 +289,8 @@
       "street1": "50G & 52G, Blok 3, Jalan Pahat G15/G",
       "street2": "Dataran Otomobil, Seksyen 15",
       "postcode": "40200",
-      "city": "Shah Alam, Selangor"
+      "city": "Shah Alam",
+      "state": "Selangor"
     },
     "contact": {
       "phone": "+603-5870 1168",
@@ -249,7 +305,11 @@
       "waze": "waze://?ll=3.063802,101.527176&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/rvrKJSraq7JaRhjb8"
     },
-    "imageUrl": "/images/branch/shahAlam.jpg"
+    "imageUrl": "/images/branch/shahAlam.jpg",
+    "coordinate": {
+      "latitude": 3.063802,
+      "longitude": 101.527176
+    }
   },
   {
     "name": "Klang",
@@ -257,21 +317,28 @@
     "address": {
       "street1": "No. 17 & 19, Jalan Bayu Tinggi 7",
       "postcode": "41200",
-      "city": "Klang, Selangor"
+      "city": "Klang",
+      "state": "Selangor"
     },
     "contact": {
       "phone": "+603-3385 1186",
       "whatsapp": "+6016-468 1101",
       "email": "klang@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
+    "businessHours": [
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "Sunday: Closed"
+    ],
     "navigation": {
       "waze": "waze://?ll=3.014704,101.431350&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/GcYyW9y1RxPogsu7A"
     },
-    "imageUrl": "/images/branch/klang.jpg"
+    "imageUrl": "/images/branch/klang.jpg",
+    "coordinate": {
+      "latitude": 3.014704,
+      "longitude": 101.43135
+    }
   },
-
   {
     "name": "Penang Eye Specialist Hospital",
     "code": "Penang",
@@ -294,7 +361,11 @@
       "waze": "waze://?ll=5.3990963,100.3020953&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/weH9oaFLnVbqsyhZ9"
     },
-    "imageUrl": "/images/branch/penangHospital.jpg"
+    "imageUrl": "/images/branch/penangHospital.jpg",
+    "coordinate": {
+      "latitude": 5.3990963,
+      "longitude": 100.3020953
+    }
   },
   {
     "name": "Bukit Mertajam",
@@ -303,7 +374,8 @@
       "street1": "No. 1931, Ground Floor, Jalan Rozhan",
       "street2": "Taman Impian Alma",
       "postcode": "14000",
-      "city": "Bukit Mertajam, Penang"
+      "city": "Bukit Mertajam",
+      "state": "Penang"
     },
     "contact": {
       "phone": "+604-523 0122",
@@ -317,7 +389,11 @@
       "waze": "waze://?ll=5.314795,100.4787152&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/zTKTnAfgyVxBGaHS7"
     },
-    "imageUrl": "/images/branch/bukitMertajam.jpg"
+    "imageUrl": "/images/branch/bukitMertajam.jpg",
+    "coordinate": {
+      "latitude": 5.314795,
+      "longitude": 100.4787152
+    }
   },
   {
     "name": "Ipoh",
@@ -326,7 +402,8 @@
       "street1": "No. 1, Jalan Dato Khong Kam Tak",
       "street2": "Off Jalan Tambun",
       "postcode": "31400",
-      "city": "Ipoh, Perak"
+      "city": "Ipoh",
+      "state": "Perak"
     },
     "contact": {
       "phone": "+605-238 0028",
@@ -342,7 +419,11 @@
       "waze": "waze://?ll=4.602978,101.119934&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/sCwQTcTadZ7GHSvWA"
     },
-    "imageUrl": "/images/branch/ipoh.jpg"
+    "imageUrl": "/images/branch/ipoh.jpg",
+    "coordinate": {
+      "latitude": 4.602978,
+      "longitude": 101.119934
+    }
   },
   {
     "name": "Seremban",
@@ -350,7 +431,8 @@
     "address": {
       "street1": "No. 141 & 142, Jalan Tun Dr. Ismail",
       "postcode": "70200",
-      "city": "Seremban, Negeri Sembilan"
+      "city": "Seremban",
+      "state": "Negeri Sembilan"
     },
     "contact": {
       "phone": "+606-602 0018",
@@ -358,12 +440,18 @@
       "fax": "+606-761 0903",
       "email": "seremban@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Sunday: 9.00am - 6.00pm"],
+    "businessHours": [
+      "Monday to Sunday: 9.00am - 6.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=2.731687,101.936945&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/XXeZsLyezbdCLgo77"
     },
-    "imageUrl": "/images/branch/seremban.jpg"
+    "imageUrl": "/images/branch/seremban.jpg",
+    "coordinate": {
+      "latitude": 2.731687,
+      "longitude": 101.936945
+    }
   },
   {
     "name": "Bahau",
@@ -372,19 +460,27 @@
       "street1": "No. 13 & 15, Jalan Seraya 1",
       "street2": "Pusat Perniagaan Seraya",
       "postcode": "72100",
-      "city": "Bahau, Negeri Sembilan"
+      "city": "Bahau",
+      "state": "Negeri Sembilan"
     },
     "contact": {
       "phone": "+606-618 0012",
       "whatsapp": "016-739 9101",
       "email": "bahau@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
+    "businessHours": [
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "Sunday: Closed"
+    ],
     "navigation": {
       "waze": "waze://?ll=2.815111,102.415944&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/GumtDcrXEakGPzca6"
     },
-    "imageUrl": "/images/branch/bahau.jpg"
+    "imageUrl": "/images/branch/bahau.jpg",
+    "coordinate": {
+      "latitude": 2.815111,
+      "longitude": 102.415944
+    }
   },
   {
     "name": "Kluang",
@@ -392,18 +488,26 @@
     "address": {
       "street1": "No. 43 & 44, Jalan Haji Manan",
       "postcode": "86000",
-      "city": "Kluang, Johor"
+      "city": "Kluang",
+      "state": "Johor"
     },
     "contact": {
       "phone": "+607-701 0018",
       "email": "kluang@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00am - 5.00pm", "Sunday: Closed"],
+    "businessHours": [
+      "Monday to Saturday: 9.00am - 5.00pm",
+      "Sunday: Closed"
+    ],
     "navigation": {
       "waze": "waze://?ll=2.034848,103.3189775&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/rZdoyc5NSimcUJybA"
     },
-    "imageUrl": "/images/branch/kluang.jpg"
+    "imageUrl": "/images/branch/kluang.jpg",
+    "coordinate": {
+      "latitude": 2.034848,
+      "longitude": 103.3189775
+    }
   },
   {
     "name": "Muar",
@@ -411,18 +515,25 @@
     "address": {
       "street1": "1-5 & 1-6, Jalan Ismail",
       "postcode": "84000",
-      "city": "Muar, Johor"
+      "city": "Muar",
+      "state": "Johor"
     },
     "contact": {
       "phone": "+07-981 0018",
       "email": "muar@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00am - 5.00pm"],
+    "businessHours": [
+      "Monday to Saturday: 9.00am - 5.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=2.0606850,102.5748963&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/1M9GUYuQ2jr55Ryp9"
     },
-    "imageUrl": "/images/branch/muar.jpg"
+    "imageUrl": "/images/branch/muar.jpg",
+    "coordinate": {
+      "latitude": 2.060685,
+      "longitude": 102.5748963
+    }
   },
   {
     "name": "Segamat",
@@ -430,18 +541,25 @@
     "address": {
       "street1": "49B & 49C, Jalan Genuang",
       "postcode": "85000",
-      "city": "Segamat, Johor"
+      "city": "Segamat",
+      "state": "Johor"
     },
     "contact": {
       "phone": "+607-971 0018",
       "email": "segamat@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00am - 5.00pm"],
+    "businessHours": [
+      "Monday to Saturday: 9.00am - 5.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=2.501805,%20102.822446&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/xa9NW75x4KtsbVvm9"
     },
-    "imageUrl": "/images/branch/segamat.jpg"
+    "imageUrl": "/images/branch/segamat.jpg",
+    "coordinate": {
+      "latitude": 2.501805,
+      "longitude": 102.822446
+    }
   },
   {
     "name": "Johor Bahru",
@@ -450,19 +568,27 @@
       "street1": "51, 53 & 55, Jalan Cantik 6",
       "street2": "Taman Pelangi Indah",
       "postcode": "81800",
-      "city": "Ulu Tiram, Johor"
+      "city": "Ulu Tiram",
+      "state": "Johor"
     },
     "contact": {
       "phone": "+607-859 0528",
       "whatsapp": "+6019-714 2101",
       "email": "johor@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
+    "businessHours": [
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "Sunday: Closed"
+    ],
     "navigation": {
       "waze": "waze://?ll=1.577432,103.800594&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/jz8zTniD8XVWxBwHA"
     },
-    "imageUrl": "/images/branch/johor.jpg"
+    "imageUrl": "/images/branch/johor.jpg",
+    "coordinate": {
+      "latitude": 1.577432,
+      "longitude": 103.800594
+    }
   },
   {
     "name": "Sutera, Johor Bahru",
@@ -471,19 +597,27 @@
       "street1": "No. 68, Jalan Sutera Tanjung 8/3",
       "street2": "Taman Sutera Utama",
       "postcode": "81300",
-      "city": "Skudai, Johor"
+      "city": "Skudai",
+      "state": "Johor"
     },
     "contact": {
       "phone": "+07-535 1800",
       "whatsapp": "+016-312 4101",
       "email": "sutera@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00am - 5.00pm", "Sunday: Closed"],
+    "businessHours": [
+      "Monday to Saturday: 9.00am - 5.00pm",
+      "Sunday: Closed"
+    ],
     "navigation": {
       "waze": "waze://?ll=1.5154158002652993,103.66825794645344&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/brBjJJGZibbDBVLw5"
     },
-    "imageUrl": "/images/branch/sutera.jpg"
+    "imageUrl": "/images/branch/sutera.jpg",
+    "coordinate": {
+      "latitude": 1.5154158002652993,
+      "longitude": 103.66825794645344
+    }
   },
   {
     "name": "Kuching",
@@ -491,7 +625,8 @@
     "address": {
       "street1": "No. 59 & 61, Ground Floor, Jalan Tun Jugah",
       "postcode": "93350",
-      "city": "Kuching, Sarawak"
+      "city": "Kuching",
+      "state": "Sarawak"
     },
     "contact": {
       "phone": "+082-26 8038",
@@ -499,12 +634,18 @@
       "fax": "+6082-579 087",
       "email": "kuching@OPTIMAX.com.my"
     },
-    "businessHours": ["Monday to Sunday: 9.00am - 6.00pm"],
+    "businessHours": [
+      "Monday to Sunday: 9.00am - 6.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=1.527319,110.357556&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/LS93YJqSuJrmz3Nv8"
     },
-    "imageUrl": "/images/branch/kuching.jpg"
+    "imageUrl": "/images/branch/kuching.jpg",
+    "coordinate": {
+      "latitude": 1.527319,
+      "longitude": 110.357556
+    }
   },
   {
     "name": "Kota Kinabalu",
@@ -514,7 +655,8 @@
       "street2": "Mile 3 ½, Jalan Penampang",
       "street3": "Penampang",
       "postcode": "88300",
-      "city": "Kota Kinabalu, Sabah"
+      "city": "Kota Kinabalu",
+      "state": "Sabah"
     },
     "contact": {
       "phone": "+6088-335025",
@@ -529,6 +671,10 @@
       "waze": "waze://?ll=5.9368959,116.0814238&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/VhfrbeUVoEmLCnFz8"
     },
-    "imageUrl": "/images/branch/kotaKinabalu.jpg"
+    "imageUrl": "/images/branch/kotaKinabalu.jpg",
+    "coordinate": {
+      "latitude": 5.9368959,
+      "longitude": 116.0814238
+    }
   }
 ]
