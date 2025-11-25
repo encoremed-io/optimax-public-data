@@ -494,11 +494,6 @@
           "serviceCode": "2C5B7C0DC00565E25701B864"
         }
       ],
-      "Kuching (Optometry)": [
-        {
-          "serviceCode": "NIL"
-        }
-      ],
       "Muar": [
         {
           "serviceCode": "2C5B7C0DC00565E25C01B864"
@@ -646,11 +641,6 @@
       "Kuching": [
         {
           "serviceCode": "2C5B7C0DC00565E25701B864"
-        }
-      ],
-      "Kuching (Optometry)": [
-        {
-          "serviceCode": "NIL"
         }
       ],
       "Muar": [
@@ -843,11 +833,6 @@
           "serviceCode": "2C5B7C0DC00565E25701B864"
         }
       ],
-      "Kuching (Optometry)": [
-        {
-          "serviceCode": "NIL"
-        }
-      ],
       "Melawati": [
         {
           "serviceCode": "55337264F15D18C1F8971C04"
@@ -936,11 +921,6 @@
       "TTDI": [
         {
           "serviceCode": "83865560AF44A000DDF480E6"
-        }
-      ],
-      "TTES": [
-        {
-          "serviceCode": "NIL"
         }
       ]
     }
