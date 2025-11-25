@@ -83,17 +83,6 @@
     },
     {
         "title": "Dr.",
-        "name": "Ngim You Siang",
-        "branchCode": ["Muar", "Segamat"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS (UM)", "M.S. OPHTHAL (UM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (FemtoLASIK, ASA, TESA)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia"],
-         "abouts": [],
-         "imageUrl": "/images/doctor/drNgimYouSiang.png"
-    },
-    {
-        "title": "Dr.",
         "name": "Adeline Sia Sien Bing",
         "branchCode": ["TTDI"],
         "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
