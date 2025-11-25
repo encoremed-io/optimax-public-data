@@ -603,7 +603,7 @@
       "fax": "+6082-579 087",
       "email": "kuching@OPTIMAX.com.my"
     },
-    "businessHours": ["Sunday & Monday: 9.00am - 6.00pm"],
+    "businessHours": ["Monday to Sunday: 9.00am - 6.00pm"],
     "navigation": {
       "waze": "waze://?ll=1.527319,110.357556&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/LS93YJqSuJrmz3Nv8"
@@ -612,29 +612,6 @@
     "coordinate": {
       "latitude": 1.527319,
       "longitude": 110.357556
-    }
-  },
-  {
-    "name": "Kuching (Optometry)",
-    "code": "Kuching (Optometry)",
-    "address": {
-      "street1": "Ground Floor, Lot 12686, Block 16 KCLD, 171, Jalan Tun Jugah",
-      "postcode": "93350",
-      "city": "Kuching",
-      "state": "Sarawak"
-    },
-    "contact": {
-      "phone": "+082-26 8055"
-    },
-    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
-    "navigation": {
-      "waze": "waze://?ll=1.52551460,110.35726250&navigate=yes",
-      "googleMaps": "https://maps.app.goo.gl/e5xcQcdQPtgs7J7K7"
-    },
-    "imageUrl": "/images/branch/kuchingOptometry.jpg",
-    "coordinate": {
-      "latitude": 1.52551460,
-      "longitude": 110.35726250
     }
   },
   {

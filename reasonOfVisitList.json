@@ -77,9 +77,7 @@
         {
           "serviceCode": "2C5B7C0DC00565E25501B864",
           "operationTime": "For Sun - Monday appointments only"
-        }
-      ],
-      "Kuching (Optometry)": [
+        },
         {
           "serviceCode": "81A5DC66825683AF2F44EF1C",
           "operationTime": "For Tues - Saturday appointments only"
@@ -219,9 +217,7 @@
         {
           "serviceCode": "2C5B7C0DC00565E25501B864",
           "operationTime": "For Sun - Monday appointments only"
-        }
-      ],
-      "Kuching (Optometry)": [
+        },
         {
           "serviceCode": "81A5DC66825683AF2F44EF1C",
           "operationTime": "For Tues - Saturday appointments only"
@@ -356,9 +352,7 @@
         {
           "serviceCode": "2C5B7C0DC00565E25801B864",
           "operationTime": "For Sun - Monday appointments only"
-        }
-      ],
-      "Kuching (Optometry)": [
+        },
         {
           "serviceCode": "81A5DC66825683AF2F44EF1C",
           "operationTime": "For Tues - Saturday appointments only"
