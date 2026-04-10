@@ -1,6 +1,6 @@
 [
   {
-    "name": "LASIK Suitability Test (by Optometrist only)",
+    "name": "LASIK Suitability Test (by Optometrist)",
     "appointmentDuration": "2 hours",
     "ageRange": {
       "min": 18,
@@ -147,8 +147,8 @@
     }
   },
   {
-    "name": "Adult Complete Eye Examination (by Optometrist only)",
-    "appointmentDuration": "2 hours",
+    "name": "Adult Complete Eye Examination (by Optometrist)",
+    "appointmentDuration": "1 - 2 hours",
     "ageRange": {
       "min": 18,
       "max": 50
@@ -288,7 +288,7 @@
     }
   },
   {
-    "name": "After LASIK Eye Check-ups & Annual Eye Examinations (by Optometrist only)",
+    "name": "Post-LASIK follow-up & Annual Eye Examination (by Optometrist)",
     "appointmentDuration": "30 minutes",
     "description": [
       "Only for existing patients who underwent LASIK surgery with Optimax Eye Specialist Centre.",
@@ -425,9 +425,9 @@
   },
   {
     "name": "Follow-up appointment with my current Eye Doctor",
-    "appointmentDuration": "30 minutes",
+    "appointmentDuration": "30 minutes - 2 hours (case dependent)",
     "description": [
-      "Visits may take up to 2 hours, depending on the case.",
+      "Kindly do not wear your contact lenses on the day of the eye test",
       "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
       "Please bring along a pair of sunglasses, especially if you are driving.",
       "The centre may change the appointment date and time if necessary."
@@ -574,12 +574,13 @@
     }
   },
   {
-    "name": "Cataract / Eye Disease examination (by Eye Doctor)",
-    "appointmentDuration": "30 minutes",
+    "name": "Cataract / Eye Problem consultation (by Eye Doctor)",
+    "appointmentDuration": "1 - 2 hours",
     "description": [
-      "Visits may take up to 2 hours, depending on the case.",
+      "Kindly do not wear your contact lenses on the day of the eye test",
       "Pupil dilation may be done. There may be light sensitivity and blurring of near vision for 3-4 hours.",
       "Please bring along a pair of sunglasses, especially if you are driving.",
+      "First Visit fees apply if you previously consulted a different eye doctor in Optimax.",
       "The centre may change the appointment date and time if necessary."
     ],
     "branches": {
@@ -725,7 +726,7 @@
   },
   {
     "name": "Children Complete Eye Examination",
-    "appointmentDuration": "30 - 60 minutes",
+    "appointmentDuration": "1 - 2 hours",
     "ageRange": {
       "min": 5,
       "max": 17
