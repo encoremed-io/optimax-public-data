@@ -13,7 +13,7 @@
       "phone": "+603-7890 2626",
       "whatsapp": "+6010-909 1201",
       "fax": "+603-2859 0214",
-      "email": "hq@OPTIMAX.com.my"
+      "email": "hq@optimax.com.my"
     },
     "businessHours": [
       "Monday to Saturday: 9.00am - 6.00pm",
@@ -42,7 +42,7 @@
       "phone": "+603-2779 6499",
       "whatsapp": "+6010-221 2300",
       "fax": "+603-9059 1101",
-      "email": "sp@OPTIMAX.com.my"
+      "email": "sp@optimax.com.my"
     },
     "businessHours": [
       "Monday to Saturday: 9.00am - 6.00pm",
@@ -72,11 +72,11 @@
     "contact": {
       "phone": "+603-8966 1600",
       "whatsapp": "+6016-828 8101",
-      "email": "cheras@OPTIMAX.com.my"
+      "email": "cheras@optimax.com.my"
     },
     "businessHours": [
       "Monday to Saturday: 9.00am - 6.00pm",
-      "First Sunday of each month: 9.00am - 6.00pm"
+      "3rd and 4th Sunday of each month: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.0355107,101.7633199&navigate=yes",
@@ -126,7 +126,9 @@
       "city": "Kuala Lumpur"
     },
     "contact": {
-      "phone": "+603-7890 0160"
+      "phone": "+603-7890 0160",
+      "whatsapp": "+6014-644 2101",
+      "email": "melawati@optimax.com.my"
     },
     "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
     "navigation": {
@@ -151,7 +153,7 @@
     "contact": {
       "phone": "+603-2779 6088",
       "whatsapp": "+6014-621 4101",
-      "email": "oug@OPTIMAX.com.my"
+      "email": "oug@optimax.com.my"
     },
     "businessHours": [
       "Mon-Wed, Fri-Sat: 9.30am - 6.30pm",
@@ -207,7 +209,7 @@
       "phone": "+603-8084 1212",
       "whatsapp": "+6010-363 2101",
       "fax": "+603-5638 4225",
-      "email": "bandarsunway@OPTIMAX.com.my"
+      "email": "bandarsunway@optimax.com.my"
     },
     "businessHours": ["Monday to Sunday: 8.00am - 5.00pm"],
     "navigation": {
@@ -235,7 +237,10 @@
       "whatsapp": "+6019-357 9111",
       "email": "elmina@optimax.com.my"
     },
-    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
+    "businessHours": [
+      "Tuesday to Saturday: 9.00am - 6.00pm",
+      "1st and 2nd Sunday of each month: 9.00am - 6.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=3.1624562,101.5733949&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/aFmYydWF3bX8Lmqg8"
@@ -285,7 +290,7 @@
     "contact": {
       "phone": "+603-5870 1168",
       "whatsapp": "+6016-460 1101",
-      "email": "shahalam@OPTIMAX.com.my"
+      "email": "shahalam@optimax.com.my"
     },
     "businessHours": [
       "Monday to Saturday: 9.00am - 6.00pm",
@@ -313,9 +318,12 @@
     "contact": {
       "phone": "+603-3385 1186",
       "whatsapp": "+6016-468 1101",
-      "email": "klang@OPTIMAX.com.my"
+      "email": "klang@optimax.com.my"
     },
-    "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
+    "businessHours": [
+      "Monday to Saturday: 9.00am - 6.00pm",
+      "3rd Sunday of each month: 9.00am - 6.00pm"
+    ],
     "navigation": {
       "waze": "waze://?ll=3.014704,101.431350&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/GcYyW9y1RxPogsu7A"
@@ -338,7 +346,7 @@
       "phone": "+604-202 0232",
       "whatsapp": "+6018-272 1101",
       "fax": "+604-281 2492",
-      "email": "penang@OPTIMAX.com.my"
+      "email": "penang@optimax.com.my"
     },
     "businessHours": [
       "Monday to Saturday: 9.00am - 6.00pm",
@@ -366,6 +374,7 @@
     },
     "contact": {
       "phone": "+604-523 0122",
+      "whatsapp": "+6010-967 6101",
       "email": "bukitmertajam@optimax.com.my"
     },
     "businessHours": [
@@ -395,7 +404,7 @@
     "contact": {
       "phone": "+605-238 0028",
       "whatsapp": "+6019-719 7101",
-      "email": "ipoh@OPTIMAX.com.my"
+      "email": "ipoh@optimax.com.my"
     },
     "businessHours": [
       "Tuesday to Saturday: 9.00am - 6.00pm",
@@ -425,7 +434,7 @@
       "phone": "+606-602 0018",
       "whatsapp": "016-426 7101",
       "fax": "+606-761 0903",
-      "email": "seremban@OPTIMAX.com.my"
+      "email": "seremban@optimax.com.my"
     },
     "businessHours": ["Monday to Sunday: 9.00am - 6.00pm"],
     "navigation": {
@@ -451,7 +460,7 @@
     "contact": {
       "phone": "+606-618 0012",
       "whatsapp": "016-739 9101",
-      "email": "bahau@OPTIMAX.com.my"
+      "email": "bahau@optimax.com.my"
     },
     "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
     "navigation": {
@@ -475,7 +484,8 @@
     },
     "contact": {
       "phone": "+607-701 0018",
-      "email": "kluang@OPTIMAX.com.my"
+      "whatsapp": "+6016-232 6101",
+      "email": "kluang@optimax.com.my"
     },
     "businessHours": ["Monday to Saturday: 9.00am - 5.00pm", "Sunday: Closed"],
     "navigation": {
@@ -498,8 +508,9 @@
       "state": "Johor"
     },
     "contact": {
-      "phone": "+07-981 0018",
-      "email": "muar@OPTIMAX.com.my"
+      "phone": "+607-981 0018",
+      "whatsapp": "+6014-986 1851",
+      "email": "muar@optimax.com.my"
     },
     "businessHours": ["Monday to Saturday: 9.00am - 5.00pm"],
     "navigation": {
@@ -523,7 +534,8 @@
     },
     "contact": {
       "phone": "+607-971 0018",
-      "email": "segamat@OPTIMAX.com.my"
+      "whatsapp": "+6016-236 9101",
+      "email": "segamat@optimax.com.my"
     },
     "businessHours": ["Monday to Saturday: 9.00am - 5.00pm"],
     "navigation": {
@@ -549,7 +561,7 @@
     "contact": {
       "phone": "+607-859 0528",
       "whatsapp": "+6019-714 2101",
-      "email": "johor@OPTIMAX.com.my"
+      "email": "johor@optimax.com.my"
     },
     "businessHours": ["Monday to Saturday: 9.00am - 6.00pm", "Sunday: Closed"],
     "navigation": {
@@ -573,9 +585,9 @@
       "state": "Johor"
     },
     "contact": {
-      "phone": "+07-535 1800",
-      "whatsapp": "+016-312 4101",
-      "email": "sutera@OPTIMAX.com.my"
+      "phone": "+607-535 1800",
+      "whatsapp": "+6016-312 4101",
+      "email": "sutera@optimax.com.my"
     },
     "businessHours": ["Monday to Saturday: 9.00am - 5.00pm", "Sunday: Closed"],
     "navigation": {
@@ -598,10 +610,10 @@
       "state": "Sarawak"
     },
     "contact": {
-      "phone": "+082-26 8038",
-      "whatsapp": "+016-426 9101",
+      "phone": "+6082-26 8038",
+      "whatsapp": "+6016-426 9101",
       "fax": "+6082-579 087",
-      "email": "kuching@OPTIMAX.com.my"
+      "email": "kuching@optimax.com.my"
     },
     "businessHours": ["Monday to Sunday: 9.00am - 6.00pm"],
     "navigation": {
