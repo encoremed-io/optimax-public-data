@@ -237,10 +237,7 @@
       "whatsapp": "+6019-357 9111",
       "email": "elmina@optimax.com.my"
     },
-    "businessHours": [
-      "Tuesday to Saturday: 9.00am - 6.00pm",
-      "1st and 2nd Sunday of each month: 9.00am - 6.00pm"
-    ],
+    "businessHours": ["Tuesday to Saturday: 9.00am - 6.00pm"],
     "navigation": {
       "waze": "waze://?ll=3.1624562,101.5733949&navigate=yes",
       "googleMaps": "https://maps.app.goo.gl/aFmYydWF3bX8Lmqg8"
@@ -294,7 +291,7 @@
     },
     "businessHours": [
       "Monday to Saturday: 9.00am - 6.00pm",
-      "Second Sunday of each month: 9.00am - 6.00pm"
+      "1st and 2nd Sunday of each month: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.063802,101.527176&navigate=yes",
