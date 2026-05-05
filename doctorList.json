@@ -1,337 +1,686 @@
 [
-    {
-        "title": "Dr.",
-        "name": "Stephen Chung Soon Hee",
-        "branchCode": ["TTDI"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS", "MS(OPHTHAL)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, PRESBYOND)"],
-        "language": ["English"],
-        "abouts": [
-            "Dr. Stephen Chung is a LASIK specialist with decades of experience in Laser Vision Correction from PRK to ReLEx SMILE. Trained extensively with Optimax UK eye surgeons for the then-revolutionary PRK refractive laser procedure, he later performed the first PRK procedure in Optimax KL in 1995.",
-            "He started LASIK at Optimax Malaysia in the early 2000s. Having carried out over 25,000 laser procedures, his vast experience in the field made him one of the most sought after experts in the region.",
-            "Dr. Stephen has presented numerous studies and papers on laser refractive surgery at both local and international medical conferences, and regularly contributes to the development of laser refractive surgery by sharing his knowledge with other surgeons around the world as well as helping with the training of other laser refractive surgeons.",
-            "He is also actively involved with the development of ReLEx SMILE in Malaysia, which is the latest technology in the world of laser refractive surgery."
-        ],
-        "imageUrl": "/images/doctor/drStephen.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Chuah Kay Leong",
-        "branchCode": ["TTDI"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon", "Medical Director"],
-        "education": ["MB BAO BCh (UK)", "FRCOphth (London)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, PRESBYOND)", "Implantable Contact Lens (ICL)", "General Ophthalmology and Cataract Surgery", "Cornea and External Eye Diseases"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia", "Cantonese"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drChuahKayLeong.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Lee Seow Yeang",
-        "branchCode": ["Penang"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (UKM)", "M SURG (OPHTH) (UKM)", "M.MED (OPHTH) S'PORE", "FRCSEd"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia", "Hokkien", "Bahasa Indonesia"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drLeeSeowYeang.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Nor Zainura Zainal",
-        "branchCode": ["Shah Alam"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["LRCP & SI", "MBBCh. BAO (Ireland)", "MS (OPHTHAL) (UKM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, PRESBYOND)", "Implantable Contact Lens (ICL) / EyePCL", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia"],
-         "abouts": [],
-        "imageUrl": "/images/doctor/drZainura.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Ngo Chek Tung",
-        "branchCode": ["Bandar Sunway"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon", "Retina Specialist"],
-        "education": ["MBBS (Malaya)", "M.Med Ophth (NUS)", "MRCSEd", "FRCOphth", "CertLRS"],
-        "specialties": ["Retina Surgery", "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia"],
-         "abouts": [],
-        "imageUrl": "/images/doctor/drNgoChekTung.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Chang Khai Meng",
-        "branchCode": ["Sri Petaling"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (USM)", "MMED (OPHTHALMOLOGY)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery", "Dry Eyes", "Glaucoma", "Cornea and External Eye Diseases"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia", "Cantonese", "Hokkien"],
-         "abouts": [],
-        "imageUrl": "/images/doctor/drChangKhaiMeng.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Lam Hee Hong",
-        "branchCode": ["Kluang", "Johor Bahru"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon", "Medical Director"],
-        "education": ["MBBS (UM)", "ICO (Cambridge)", "Master of Surgery (UM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (FemtoLASIK, ASA)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia", "Cantonese"],
-         "abouts": [],
-         "imageUrl": "/images/doctor/drLamHeeHong.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Ngim You Siang",
-        "branchCode": ["Muar", "Segamat"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS (UM)", "M.S. OPHTHAL (UM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (FemtoLASIK, ASA, TESA)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia"],
-         "abouts": [],
-         "imageUrl": "/images/doctor/drNgimYouSiang.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Adeline Sia Sien Bing",
-        "branchCode": ["TTDI"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS (UM)", "MOphth (UM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "General Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drAdeline.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Marcus Ng Kang Kok",
-        "branchCode": ["Muar", "Segamat"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS (Taiwan)", "M.S. Ophthal (UKM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (FemtoLASIK, ASA, TESA)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drMarcusNgKangKok.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Leow Sue Ngein",
-        "branchCode": ["Johor Bahru"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (UKM)", "M.S Ophthalmology (UKM)", "CMIA (Malaysia)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE, FemtoLASIK, ASA)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia", "Hokkien", "Cantonese"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drLeowSueNgein.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Ang Ee Ling",
-        "branchCode": ["Penang"],
-        "jobTitle": ["Consultant Ophthalmologist", "Vitreoretinal Surgeon"],
-        "education": ["MBBS", "MSOphthal (UM)", "Fellowship in Vitreoretinal Surgery Malaysia and Sydney"],
-        "specialties": ["Vitreoretinal", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia", "Hokkien"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drAngEeLing.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Suresh Subramaniam",
-        "branchCode": ["Ipoh"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon", "Glaucoma Specialist"],
-        "education": ["MD (UNPAD, Bandung)", "M.Med Ophth (USM)", "Glaucoma Fellowship (SNUH, Seoul)", "CCFT Glaucoma (MOH)", "CMIA (NIOSH)", "AM"],
-        "specialties": ["Glaucoma Surgery", "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, TESA)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Tamil"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drSuresh.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Edwin Ooi Inn Loon",
-        "branchCode": ["Penang"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (UKM)", "M.S Ophthal (UKM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "General Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin", "Hokkien", "Cantonese"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drEdwinOoi.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Faith Ho Fui Li",
-        "branchCode": ["Kuching"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (UKM)", "Dr.Ophth (UKM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (FemtoLASIK, ASA, TESA)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin", "Hakka", "Cantonese"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drFaith.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Tang Seng Fai",
-        "branchCode": ["Klang", "TTDI"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon", "Glaucoma Specialist"],
-        "education": ["MD (UKM)", "Dr Ophthal (UKM)", "Fellowship in Glaucoma (UKM)"],
-        "specialties": ["Glaucoma", "iStent (Minimally Invasive Glaucoma Surgery)", "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin", "Cantonese"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drTangSengFai.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Siuw Chin Pei",
-        "branchCode": ["Sutera", "Johor Bahru"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS (IMU)", "Doctor of Ophthalmology (UKM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE, FemtoLASIK, ASA)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drSiuwPeiChin.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Gan Say Seong",
-        "branchCode": ["Bahau", "Seremban"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS (UM)", "MS (Ophth) UKM"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE, FemtoLASIK, ASA, TESA)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drGanSaySeong.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Anhar Hafiz Bin Silim",
-        "branchCode": ["Shah Alam"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon", "Vitreoretinal Surgeon"],
-        "education": ["MBBS (Jordan)", "Doctor of Ophthalmology (UKM)", "Fellowship in Vitreoretinal Surgery (CCFT, M'sia)"],
-        "specialties": ["Vitreoretinal Surgery", "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL), EyePCL", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drAnharHafiz.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Mohd Syafiq Bin Azman",
-        "branchCode": ["Seremban"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS (UIAM)", "Doctor of Ophthalmology (UKM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drSyafiq.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Cassandra Lo Yee Lin",
-        "branchCode": ["OUG"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (KSMU)", "MS Ophthal (UKM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin", "Cantonese", "Hakka"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drCassandraLo.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Ng Chun Wai",
-        "branchCode": ["Kepong", "Damansara Jaya", "TTDI"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (UCSI)", "Doctor of Ophthalmology (UKM)", "CMIA (NIOSH)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin", "Cantonese", "Hokkien"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drNgChunWai.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Miswan Muiz Mahyudin",
-        "branchCode": ["Damansara Jaya", "Cheras", "Melawati"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon", "President of Malaysian Society of Ophthalmology"],
-        "education": ["MOphthal (Malaya)", "MBChB (Otago, NZ)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "General Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drMiswanMuiz.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Joseph Chong Wern Yih",
-        "branchCode": ["Klang", "Cheras"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (KSMU)", "MMED OPHTHAL (USM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin", "Cantonese"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drJoseph.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Ivan Chong Jia Cherng",
-        "branchCode": ["Kota Kinabalu"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MBBS (IMU)", "MOphthal (UM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, TESA, PRESBYOND)", "Implantable Contact Lens (ICL)", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin", "Hakka"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drIvanChong.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Chong Ka Lung",
-        "branchCode": ["Seremban"],
-        "jobTitle": ["Consultant Ophthalmologist", "Vitreoretinal Surgeon"],
-        "education": ["MBBS (IMU)", "MOphthal (UM)", "Vitreoretinal Fellowship (Australia)", "Subspecialty Vitreoretinal Fellowship (Ministry of Health, CCFT, M'sia)", "CMIA (NIOSH)", "(AM, AMM)"],
-        "specialties": ["Vitreoretinal Surgery", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Mandarin", "Bahasa Malaysia"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drChongKaLung.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Teo Shee Kiang",
-        "branchCode": ["Johor Bahru"],
-        "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
-        "education": ["MD (UKM)", "Doctor of Ophthalmology (UKM)"],
-        "specialties": ["LASIK / Laser Refractive Surgery", "Comprehensive Ophthalmology and Cataract Surgery"],
-        "language": ["English", "Bahasa Malaysia", "Mandarin", "Hokkien"],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drTeoSheeKiang.png"
-    },
-    {
-        "title": "Dr.",
-        "name": "Woo Qi Jie",
-        "branchCode": [],
-        "jobTitle": ["Plastic Surgeon"],
-        "education": ["Doctor Of Medicine (RUSSIA)", "Master In Plastic Surgery (U.S.M)"],
-        "specialties": [],
-        "language": [],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drWooQiJie.png"
-    },
-      {
-        "title": "Dr.",
-        "name": "Lim Yee Woon",
-        "branchCode": [],
-        "jobTitle": ["Anaesthetist"],
-        "education": ["Doctor Of Medicine, MD (USM)", "Master Of Anaesthesiology (UM)"],
-        "specialties": [],
-        "language": [],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drLimYeeWoon.png"
-    },
-        {
-        "title": "Dr.",
-        "name": "Koh Khai Luen",
-        "branchCode": [],
-        "jobTitle": ["Plastic Surgeon"],
-        "education": ["MBBS (IMU)", "MRCS (Ire)", "MS (Plastic Surgery, USM)"],
-        "specialties": [],
-        "language": [],
-        "abouts": [],
-        "imageUrl": "/images/doctor/drKohKhaiLuen.png"
-    }
+  {
+    "title": "Dr.",
+    "name": "Stephen Chung Soon Hee",
+    "branchCode": ["TTDI"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MBBS", "MS(OPHTHAL)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, PRESBYOND)"
+    ],
+    "language": ["English"],
+    "abouts": [
+      "Dr. Stephen Chung is a LASIK specialist with decades of experience in Laser Vision Correction from PRK to ReLEx SMILE. Trained extensively with Optimax UK eye surgeons for the then-revolutionary PRK refractive laser procedure, he later performed the first PRK procedure in Optimax KL in 1995.",
+      "He started LASIK at Optimax Malaysia in the early 2000s. Having carried out over 25,000 laser procedures, his vast experience in the field made him one of the most sought after experts in the region.",
+      "Dr. Stephen has presented numerous studies and papers on laser refractive surgery at both local and international medical conferences, and regularly contributes to the development of laser refractive surgery by sharing his knowledge with other surgeons around the world as well as helping with the training of other laser refractive surgeons.",
+      "He is also actively involved with the development of ReLEx SMILE in Malaysia, which is the latest technology in the world of laser refractive surgery."
+    ],
+    "imageUrl": "/images/doctor/drStephen.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Chuah Kay Leong",
+    "branchCode": ["TTDI"],
+    "jobTitle": [
+      "Consultant Ophthalmologist",
+      "Refractive Surgeon",
+      "Medical Director"
+    ],
+    "education": ["MB BAO BCh (UK)", "FRCOphth (London)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA)",
+      "Implantable Contact Lens (ICL)",
+      "General Ophthalmology and Cataract Surgery",
+      "Cornea and External Eye Diseases"
+    ],
+    "language": ["English", "Mandarin", "Bahasa Malaysia", "Cantonese"],
+    "abouts": [
+      "Dr. Chuah Kay Leong qualified as Fellow of The Royal College of Ophthalmologists, London in 1996.",
+      "He pursued a clinical fellowship to sub-specialise in Cornea, External Eye Diseases and Refractive Surgery in the Department of Ophthalmology, University of Toronto, Canada in 1998.",
+      "Upon returning to Malaysia in 1999, he taught and trained eye doctors, medical students, and paramedics at the Malaysian National University (Universiti Kebangsaan Malaysia). He also started the corneal transplantation programme in that university hospital.",
+      "He joined Optimax full time in 2002, not only treating general eye diseases and ocular disorders such as dry eyes, glaucoma, cataracts and keratoconus but also specializing in laser refractive surgery and premium intraocular lens implantation.",
+      "He is also the first surgeon to perform ReLEx SMILE (known as SMILE® now) in Malaysia."
+    ],
+    "imageUrl": "/images/doctor/drChuahKayLeong.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Lee Seow Yeang",
+    "branchCode": ["Penang"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": [
+      "MD (UKM)",
+      "M SURG (OPHTH) (UKM)",
+      "M.MED (OPHTH) S'PORE",
+      "FRCSEd"
+    ],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": [
+      "English",
+      "Mandarin",
+      "Bahasa Malaysia",
+      "Hokkien",
+      "Bahasa Indonesia"
+    ],
+    "abouts": [
+      "Highly qualified Ophthalmologist with postgraduate recognitions from the National University of Malaysia (UKM), the National University of Singapore and the Royal College of Surgeons, Edinburgh in Scotland.",
+      "As the former head of the Ophthalmology Department in Bukit Mertajam Hospital in Penang, Dr. Lee’s experience and reputation have made her a highly sought after ophthalmologist in and around Penang.",
+      "Besides offering a wide range of laser refractive surgery, namely Advanced Surface Ablation (ASA), LASIK, and Laser Blended Vision (LBV), Dr. Lee is also highly skilled in performing multifocal lens implants and Implantable Contact Lenses (ICL)",
+      "Dr. Lee is currently based at the Optimax Eye Specialist Hospital in Penang."
+    ],
+    "imageUrl": "/images/doctor/drLeeSeowYeang.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Nor Zainura Zainal",
+    "branchCode": ["Shah Alam"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["LRCP & SI", "MBBCh. BAO (Ireland)", "MS (OPHTHAL) (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, PRESBYOND)",
+      "Implantable Contact Lens (ICL) / EyePCL",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia"],
+    "abouts": [
+      "Dr. Zainura is a highly recognised scholar and award-winning researcher who graduated from the Royal College of Surgeons in Ireland in 1996 with Honours and High Distinctions.",
+      "Prior to joining OPTIMAX, Dr. Zainura was a medical lecturer in UPM from 2004-2007. Her years of experience in the management of various eye diseases, gained from her time serving at Hospital Universiti Kebangsaan Malaysia (HUKM), Hospital Kuala Lumpur (HKL) and Seremban Hospital, as well as her strong academic and research background, were instrumental to the rapid expansion of OPTIMAX's clinical services in the Klang Valley.",
+      "Dr. Zainura is highly proficient in phaco-emulsifications (phaco) with foldable lens implantation that makes a small incision on the cornea without stitches and refractive surgeries such as ZEISS SMILE® Pro & ZEISS SMILE®, FemtoLASIK, Advanced Surface Ablation (ASA), Implantable Contact Lens (IC) and Implantable Phakic Contact Lens (IPCL)."
+    ],
+    "imageUrl": "/images/doctor/drZainura.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Ngo Chek Tung",
+    "branchCode": ["Bandar Sunway"],
+    "jobTitle": [
+      "Consultant Ophthalmologist",
+      "Refractive Surgeon",
+      "Retina Specialist"
+    ],
+    "education": [
+      "MBBS (Malaya)",
+      "M.Med Ophth (NUS)",
+      "MRCSEd",
+      "FRCOphth",
+      "CertLRS"
+    ],
+    "specialties": [
+      "Retina Surgery",
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Mandarin", "Bahasa Malaysia"],
+    "abouts": [
+      "Dr. Jason is a vitreoretinal specialist and graduated with a Master of Medicine (Ophthalmology) from the National University of Singapore in 2008. He obtained postgraduate recognition from the Royal College of Surgeons, Edinburgh, then became a Fellow of The Royal College of Ophthalmologists, London in 2009.",
+      "He further pursued a Clinic Fellowship in Vitreoretinal Surgery at the Department of Ophthalmology, St. James's University Hospital, Leeds, United Kingdom.",
+      "Along with being fluent in several languages, he has strong experience treating various ocular conditions, including iStent and vitreoretinal surgeries."
+    ],
+    "imageUrl": "/images/doctor/drNgoChekTung.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Chang Khai Meng",
+    "branchCode": ["Sri Petaling"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MD (USM)", "MMED (OPHTHALMOLOGY)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery",
+      "Dry Eyes",
+      "Glaucoma",
+      "Cornea and External Eye Diseases"
+    ],
+    "language": [
+      "English",
+      "Mandarin",
+      "Bahasa Malaysia",
+      "Cantonese",
+      "Hokkien"
+    ],
+    "abouts": [
+      "Dr. Chang obtained his Medical Degree from the University of Sains Malaysia in 2006 and his Master of Ophthalmology from the University of Malaya.",
+      "He provides various type of refractive surgeries such as ZEISS SMILE® Pro & ZEISS SMILE®, Femtosecond-assisted LASIK, Advanced Surface Ablation (ASA), TransPRK, Implantable Collamer Lens (ICL), Femtosecond-assisted ICL implant, Phakic IOL implant and Refractive Lens Exchange (RLE).",
+      "Dr. Chang has vast experience with both normal and complicated cataract surgeries, multifocal and toric intraocular lens implant, Femtosecond laser assisted cataract surgery, IOL exchange, iris claw lens implantation, scleral fixation of intraocular lens (SFIOL) surgery, Femtosecond laser assisted limbal relaxing incision and other ocular surface surgeries like pterygium surgery.",
+      "Dr. Chang also has a strong interest in glaucoma treatment and Minimally Invasive Glaucoma Surgery (e.g. iStent Implant), goniotomy, endoscopic cyclophotocoagulation, micropulse transcleral cyclophotocoagulation, high frequency deep sclerotomy, advanced dry eye treatment (e.g. amniotic membrane transplant, intense pulse light treatment, punctal plugs insertion), diabetic retinopathy treatment (micropulse grid laser, Anti-VEGF injection, panretinal photocoagulation), age-related macular degeneration treatment, keratoconus treatment (e.g. corneal collagen cross-linking, corneal inlay, phakic OL), floaters treatment (YAG laser vitreolysis, and central serous chorioretinopathy treatment (micropulse laser)."
+    ],
+    "imageUrl": "/images/doctor/drChangKhaiMeng.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Lam Hee Hong",
+    "branchCode": ["Kluang", "Johor Bahru"],
+    "jobTitle": [
+      "Consultant Ophthalmologist",
+      "Refractive Surgeon",
+      "Medical Director"
+    ],
+    "education": ["MBBS (UM)", "ICO (Cambridge)", "Master of Surgery (UM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (FemtoLASIK, ASA)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Mandarin", "Bahasa Malaysia", "Cantonese"],
+    "abouts": [
+      "Dr. Lam Hee Hong is an ophthalmologist with a great track record of completing thousands of treatments, including cataract and refractive surgery. He completed his Master of Surgery (Ophthalmology) with distinction at the University of Malaya in 2008. In 2011, he was appointed as the Head of Ophthalmology Department at Hospital Pakar Sultanah Fatimah, Muar, Johor.",
+      "Dr. Lam published extensively in ophthalmology. He also participated in several international forum platforms organized in Paris, Beijing, and Sydney based on his case studies. Since 2006, his desire to go the additional mile by participating in community service (eye screening programmes and eye health talks) and non-governmental organisation activities (eye camp MERCY) has demonstrated his caring approach towards providing the best eye health care to the people."
+    ],
+    "imageUrl": "/images/doctor/drLamHeeHong.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Ngim You Siang",
+    "branchCode": ["Muar", "Segamat"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MBBS (UM)", "M.S. OPHTHAL (UM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (FemtoLASIK, ASA, TESA)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Mandarin", "Bahasa Malaysia"],
+    "abouts": [
+      "Graduated from University of Malaya in 2006 and subsequently obtained his Master of Ophthalmology from the same university.",
+      "Is a gazetted eye specialist by Ministry of Health (MOH) and registered under National Specialist Register (NSR) Malaysia.",
+      "Since 2009, he had served in the Department of Ophthalmology in Hospital Pakar Sultanah Fatimah Muar, Hospital Sultanah Aminah Johor Bahru and University of Malaya. Besides treating common eye diseases such as Cataract, Glaucoma, Diabetic Retinopathy, Age-related Macular Degeneration and others in his day-to-day practice.",
+      "Being fluent in Mandarin, Hokkien, Teochew, Cantonese, English and Malay, he is willing to spend extra minutes with patients to educate them and prevent avoidable blindness.",
+      "Being an eye specialist is one of the dreams come true for Dr Ngim. Inspired by Orbis Flying Eye Hospital in the late 1990s, Dr Ngim had made up his mind to become an eye doctor during his secondary school years then.",
+      "During his medical student days in University of Malaya, he participated in a voluntary reader program to assist fellow visually impaired students from various faculties for 5 years.",
+      "With this experience, he has more empathy towards blind patients in his clinical practice and this is what made him different from other ophthalmologists.",
+      "Dr Ngim is married to a very supportive paediatrician wife with 3 kids. He is Muarian and is currently based in Optimax Muar and segamat."
+    ],
+    "imageUrl": "/images/doctor/drNgimYouSiang.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Adeline Sia Sien Bing",
+    "branchCode": ["TTDI"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MBBS (UM)", "MOphth (UM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "General Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Mandarin", "Bahasa Malaysia"],
+    "abouts": [
+      "Dr. Adeline Sia obtained her MBBS from the University of Malaya in 2004. She returned to Sarawak to help the community after graduating and gained vast experience and skill in ophthalmology during her service there.",
+      "She was actively involved in hospital and state-level Continuous Medical Education. She received a Master of Surgery (Ophthalmology) from the University of Malaya in 2010 and is a certified ophthalmologist under the National Specialist Registry. Since then, she has expanded her expertise in difficult cataract surgery, intraocular lens implantation, pterygium, glaucoma, and management of various eye diseases.",
+      "She is particularly interested in refractive surgery technology such as ZEISS SMILE® Pro & SMILE® SMILE, FemtoLASIK, Advanced Surface Ablation (ASA) and Femtosecond Laser Assisted Cataract Surgery (FLACS).",
+      "Dr. Adeline is a very friendly, compassionate, and professional individual who is committed to providing the best care to her patients."
+    ],
+    "imageUrl": "/images/doctor/drAdeline.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Marcus Ng Kang Kok",
+    "branchCode": ["Muar", "Segamat"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MBBS (Taiwan)", "M.S. Ophthal (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (FemtoLASIK, ASA, TESA)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Mandarin", "Bahasa Malaysia"],
+    "abouts": [
+      "Dr Marcus Ng Kang Kok is originated from Melaka. He is a highly qualified Ophthalmologist with postgraduate recognitions from the National University of Malaysia (UKM).",
+      "As the senior consultant ophthalmologist of the Ophthalmology Department in Hospital Melaka, Dr Marcus Ng has vast experience in teaching ophthalmology master students and Manipal Medical College students. Dr Marcus Ng is highly proficient in doing cataract and refractive surgeries. During his time in Hospital Melaka, he performed various surgery including vitreo retinal, glaucoma, pediatric and oculoplasty surgeries.",
+      "Besides offering a wide range of laser refractive surgery and LASIK, Dr Marcus Ng is also highly skilled in performing multifocal lens implants, Implantable Contact Lenses (ICL) and Femtosecond cataract surgery. Other services provided including pterygium surgery, glaucoma, diabetes eye disease, age related macula degeneration management, pediatric eye care and laser procedures eg. Yag and Argon.",
+      "Dr Marcus Ng is currently based at the OPTIMAX Eye Specialist Centre in Muar and Segamat."
+    ],
+    "imageUrl": "/images/doctor/drMarcusNgKangKok.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Leow Sue Ngein",
+    "branchCode": ["Johor Bahru"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MD (UKM)", "M.S Ophthalmology (UKM)", "CMIA (Malaysia)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE, FemtoLASIK, ASA)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": [
+      "English",
+      "Mandarin",
+      "Bahasa Malaysia",
+      "Hokkien",
+      "Cantonese"
+    ],
+    "abouts": [
+      "Dr Leow's passion in ophthalmology began when she worked as a part time eye clinic assistant during her secondary schooling years. She entered medical school in National University of Malaysia (UKM) to pursue her dream and subsequently completed her Masters of Ophthalmology from the same university with merits. She was actively involved in eye research.",
+      "She had various presentations in both local and international scientific conferences with numerous travelling grants awards.",
+      "In recognition of her work, she was awarded the distinguished Prof Yasuo Tano Award in APVRS Japan.",
+      "She also has several publications in peer-reviewed journals.",
+      "Having served 13 years in numerous hospitals in Kedah, Penang, Kuala Lumpur, Sabah and Johor, she brings with her a vast clinical experience to Optimax. She is dedicated, meticulous and caring doctor who strives to do her best for her patients. She was awarded 'Anugerah Perkhidmatan Cemerlang by the Ministry of Helath for her service and work commitment.",
+      "She is a comprehensive ophthalomogist; providing treatment for various eye conditions including diabetic eye disease, glaucoma, paediatric eye care, age-related macular degeneration, pterygium. She has a keen interest in Cataract and refractive Surgeries including multifocal and toric intraocular lens implantation, femto-second assisted cataract surgery (FLACS), customised Femto-Lasik, Customized Advanced Surface Ablation (ASA) and Implantable Collamer Lens (ICL). Dr Leow is currently based at Optimax Eye Specialist Centre in Johor Bahru.",
+      "Awards: Prof Yasuo Tano Award in APVRS Japan, Nova MSO & Johor service award, Anugerah Perkhidmatan Cemerlang by the Ministry of Health"
+    ],
+    "imageUrl": "/images/doctor/drLeowSueNgein.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Ang Ee Ling",
+    "branchCode": ["Penang"],
+    "jobTitle": ["Consultant Ophthalmologist", "Vitreoretinal Surgeon"],
+    "education": [
+      "MBBS",
+      "MSOphthal (UM)",
+      "Fellowship in Vitreoretinal Surgery Malaysia and Sydney"
+    ],
+    "specialties": [
+      "Vitreoretinal",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Mandarin", "Bahasa Malaysia", "Hokkien"],
+    "abouts": [],
+    "imageUrl": "/images/doctor/drAngEeLing.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Suresh Subramaniam",
+    "branchCode": ["Ipoh"],
+    "jobTitle": [
+      "Consultant Ophthalmologist",
+      "Refractive Surgeon",
+      "Glaucoma Specialist"
+    ],
+    "education": [
+      "MD (UNPAD, Bandung)",
+      "M.Med Ophth (USM)",
+      "Glaucoma Fellowship (SNUH, Seoul)",
+      "CCFT Glaucoma (MOH)",
+      "CMIA (NIOSH)",
+      "AM"
+    ],
+    "specialties": [
+      "Glaucoma Surgery",
+      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, TESA)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia", "Tamil"],
+    "abouts": [
+      "Our dedicated Dr. Suresh is an expert in glaucoma and has worked in hospitals all over Malaysia for more than 18 years. He treats glaucoma as well as other eye diseases such as diabetic eye disease, paediatric eye care, age-related macular degeneration, and pterygium.",
+      "He earned a Medical Degree from the University Padjadjaran in Bandung and a Master's Degree in Medical Ophthalmology from the University Sains Malaysia. From 2014 to 2017, he pursued sub-specialist training in glaucoma at the Ministry of Health hospitals (Hospital Sultanah Bahiyah, Kedah, Hospital Kuala Lumpur and Hospital Selayang) and Seoul National University Hospital, South Korea.",
+      "Dr. Suresh is a loving husband and father to two amazing children. He is a resident glaucoma specialist at the Ipoh-based Optimax Eye Specialist Centre."
+    ],
+    "imageUrl": "/images/doctor/drSuresh.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Edwin Ooi Inn Loon",
+    "branchCode": ["Penang"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MD (UKM)", "M.S Ophthal (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "General Ophthalmology and Cataract Surgery"
+    ],
+    "language": [
+      "English",
+      "Bahasa Malaysia",
+      "Mandarin",
+      "Hokkien",
+      "Cantonese"
+    ],
+    "abouts": [
+      "Illuminating vision with expertise and care, Dr. Edwin Ooi is an esteemed ophthalmologist with over 15 years of experience. He graduated from the National University of Malaysia (UKM) in 2006 and completed his Master of Ophthalmology (M.S. Opthal) in 2015. He is a gazetted eye specialist by the Ministry of Health (MOH) and is registered under the National Specialist Register of Malaysia (NSR).",
+      "Dr. Edwin Ooi remains actively involved in his field, staying up-to-date on the latest advancements. Specializing in cataract, pterygium, and LASIK surgeries, he also provides a wide range of comprehensive eye care services, from dry eyes management to glaucoma medical therapy, pediatric eye care, and advanced treatments for diabetic retinopathy. Based at Optimax Eye Specialist Hospital in Penang, Dr. Edwin Ooi is your trusted, experienced ophthalmologist."
+    ],
+    "imageUrl": "/images/doctor/drEdwinOoi.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Faith Ho Fui Li",
+    "branchCode": ["Kuching"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MD (UKM)", "Dr.Ophth (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (FemtoLASIK, ASA, TESA)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": [
+      "English",
+      "Bahasa Malaysia",
+      "Mandarin",
+      "Hakka",
+      "Cantonese"
+    ],
+    "abouts": [
+      "Dr Faith Ho Fui Li is a graduate of Universiti Kebangsaan Malaysia (UKM) where she attended both her undergraduate and postgraduate studies. Hailing from a small town in Sabah, Dr Faith has trained in various public hospitals during her residency. In 2017, she completed her Masters in Ophthalmology before becoming a specialist in Sarawak General Hospital. During her residency, she was able to provide superior care and consultation that resulted in her being one of the most sought-after doctors in Sarawak. She was also actively involved in Sarawak Cataract Surgery Camps from 2013 to 2020.",
+      "Hungry to widen her knowledge in the field of Ophthalmology, Dr Faith has been diligently attending and participating in numerous scientific conferences. One of her many hobbies include mentoring young medical students as a part time lecturer in University Malaysia Sarawak (UNIMAS).She was also in the credentialing team of the funduscopy training for paramedics in Sarawak. Besides serving as the Vice President of Sarawak Eye Society, Dr Faith has been actively publishing posters, book chapters and journals in this field of medicine.",
+      "As a renowned Ophthalmologist, Dr Faith is known for her patience, dedication, and attention to detail for each individual patient case. She is currently the resident doctor of Optimax Kuching."
+    ],
+    "imageUrl": "/images/doctor/drFaith.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Tang Seng Fai",
+    "branchCode": ["Klang", "TTDI"],
+    "jobTitle": [
+      "Consultant Ophthalmologist",
+      "Refractive Surgeon",
+      "Glaucoma Specialist"
+    ],
+    "education": [
+      "MD (UKM)",
+      "Dr Ophthal (UKM)",
+      "Fellowship in Glaucoma (UKM)"
+    ],
+    "specialties": [
+      "Glaucoma",
+      "iStent (Minimally Invasive Glaucoma Surgery)",
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia", "Mandarin", "Cantonese"],
+    "abouts": [
+      "Dr Tang Seng Fai obtained his MD from UKM in 2008, then a Master of Ophthalmology and Glaucoma Fellowship in 2017 and 2021. Prior to joining OPTIMAX, Dr. Tang was a general ophthalmologist, glaucoma fellow, and medical instructor at UKM for four years. He manages glaucoma and general ophthalmology cases and teaches UKM medical and master's students.",
+      "Dr. Tang has published in ophthalmology and glaucoma publications locally and internationally. He obtained the Best Master Student Award 2015/2016 from Malaysia Conjoint Ophthalmology Examination Board and Professor Mustaffa Young Investigators' Award at Diabetes Asia 2016 Conference.",
+      "Prior to joining Optimax in 2022, he worked as a general ophthalmologist at Hospital Canselor Tuanku Muhriz and was also a lecturer for 4 years, teaching UKM undergraduate medical students and master's students in the ophthalmology department.",
+      "Dr. Tang is a skilled cataract surgeon. He is actively performing minimally invasive glaucoma surgery (MIGS) and conventional glaucoma filtering surgery."
+    ],
+    "imageUrl": "/images/doctor/drTangSengFai.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Siuw Chin Pei",
+    "branchCode": ["Sutera", "Johor Bahru"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MBBS (IMU)", "Doctor of Ophthalmology (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE, FemtoLASIK, ASA)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia", "Mandarin"],
+    "abouts": [
+      "Dr. Siuw Chin Pei is a Consultant Ophthalmologist and Refractive Surgeon at Optimax Eye Specialist Centre, Sutera, Johor Bahru, where she is dedicated to helping patients achieve clearer, healthier, and more confident vision through compassionate and high-quality eye care.",
+      "She obtained her Bachelor of Medicine and Bachelor of Surgery (MBBS) from the International Medical University (IMU) and later earned her Doctor of Ophthalmology from Universiti Kebangsaan Malaysia (UKM). With a strong academic foundation and years of clinical experience, Dr. Siuw has developed a keen expertise in laser vision correction procedures such as SMILE and FemtoLASIK, as well as cataract surgery and comprehensive eye care.",
+      "Dr. Siuw is known for her meticulous surgical approach and patient-centred philosophy. She believes that every individual deserves a tailored treatment plan that suits their visual needs and lifestyle. By combining advanced technology with a gentle, reassuring manner, she ensures that her patients feel comfortable and confident throughout their eye treatment journey.",
+      "Fluent in English, Bahasa Malaysia, and Mandarin, Dr. Siuw is able to communicate effectively with patients from diverse backgrounds, helping them make well-informed decisions about their eye health. Her passion for restoring vision and improving quality of life reflects Optimax's long-standing commitment to \"Clear Vision, Brighter Life.\""
+    ],
+    "imageUrl": "/images/doctor/drSiuwPeiChin.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Gan Say Seong",
+    "branchCode": ["Bahau", "Seremban"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MBBS (UM)", "MS (Ophth) UKM"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE, FemtoLASIK, ASA, TESA)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia", "Mandarin"],
+    "abouts": [
+      "Dr. Gan Say Seong is a qualified consultant ophthalmologist. He graduated with Honours in Bachelor of Medicine and Surgery (MBBS) from the University of Malaya (UM) in 2010 and obtained the Masters of Ophthalmology from the National University of Malaysia (UKM) in 2019.",
+      "Dr. Gan has 12 years of ophthalmology experience in various public hospitals like Hospital Selayang, Hospital Kuala Lumpur, and Hospital Sungai Buloh. He started to serve as a medical officer in Hospital Tuanku Ampuan Najihah, Kuala Pilah in 2010 where he was actively involved in eye screening programs and participated in cataract camps. He had also been involved in supervising the ophthalmology residents which includes their cataract and micro-surgical training.",
+      "He is well experienced, especially in cataract surgery, comprehensive ophthalmology, and laser refractive surgery. He not only treats general eye diseases such as cataracts, dry eyes, glaucoma, eye infection/inflammation, and diabetic eye disease but also specializes in premium intraocular lens implantation.",
+      "He is also an honorary lecturer for International Medical University (IMU) from 2020 to 2022. He is a registered specialist under the National Specialist Register of Malaysia and is a member of the Malaysia Ophthalmological Society (MSO)."
+    ],
+    "imageUrl": "/images/doctor/drGanSaySeong.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Anhar Hafiz Bin Silim",
+    "branchCode": ["Shah Alam"],
+    "jobTitle": [
+      "Consultant Ophthalmologist",
+      "Refractive Surgeon",
+      "Vitreoretinal Surgeon"
+    ],
+    "education": [
+      "MBBS (Jordan)",
+      "Doctor of Ophthalmology (UKM)",
+      "Fellowship in Vitreoretinal Surgery (CCFT, M'sia)"
+    ],
+    "specialties": [
+      "Vitreoretinal Surgery",
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL), EyePCL",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia"],
+    "abouts": [
+      "Dr. Anhar Hafiz is highly competent in the field of ophthalmology and has a strong track record of performing various procedures, including both anterior and posterior ophthalmic surgeries.",
+      "In 2008, he received his Bachelor of Medicine and Surgery (MBBS) from Jordan University of Science and Technology. Dr. Anhar Hafiz obtained his Doctor of Ophthalmology from the National University of Malaysia (UKM) in 2017 and Fellowship in Vitreoretinal Surgery from the Ministry of Health (CCFT in VR) in 2022.",
+      "With over a decade of experience, he has also imparted his expertise as a part-time clinical lecturer by mentoring medical and optometry students, medical officers, master trainees, and fellows.",
+      "He specialises in vitreoretinal diseases like diabetic retinopathy, retinal detachment, macula hole, epiretinal membrane, and cataract surgery. With his vast experience and educational background, Dr. Anhar Hafiz is well-equipped to provide high-quality eye care to patients."
+    ],
+    "imageUrl": "/images/doctor/drAnharHafiz.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Mohd Syafiq Bin Azman",
+    "branchCode": ["Seremban"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MBBS (UIAM)", "Doctor of Ophthalmology (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia"],
+    "abouts": [
+      "Dr. Mohd Syafiq bin Azman is a dedicated and proactive doctor with a passion for learning and delivering exceptional patient care. With a strong ability to identify interesting case studies, he consistently seeks opportunities to provide a better vision for all.",
+      "Dr. Syafig completed his MBBS degree at Universiti Islam Antarabangsa Malaysia (UIAM) in 2010, followed by a specialisation in Ophthalmology from 2015 to 2020 at Universiti Kebangsaan Malaysia (UKM). Throughout his medical career, he has gained valuable experience and expertise in various healthcare settings.",
+      "Dr. Syafiq is a valued member of the medical community, continuously striving for professional growth and providing outstanding care to his patients.",
+      "He possesses extensive expertise in phaco-emulsification (phaco) with foldable lens implantation, a minimally invasive procedure involving a small corneal incision without the need for stitches. In addition, he is well-versed in a range of refractive surgeries, including ZEISS SMILE® Pro, SMILE®, FemtoLASIK, Advanced Surface Ablation (ASA), as well as Implantable Contact Lens (ICL) procedures."
+    ],
+    "imageUrl": "/images/doctor/drSyafiq.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Cassandra Lo Yee Lin",
+    "branchCode": ["OUG"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MD (KSMU)", "MS Ophthal (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": [
+      "English",
+      "Bahasa Malaysia",
+      "Mandarin",
+      "Cantonese",
+      "Hakka"
+    ],
+    "abouts": [
+      "Dr. Cassandra Lo Yee Lin is a highly proficient and compassionate ophthalmologist with an unwavering dedication to the preservation and enhancement of eye health and vision across all age groups. She obtained her medical degree from Kursk State Medical University (KSMU) and furthered her specialization by completing a master's program in ophthalmology at the University Kebangsaan Malaysia (UKM).",
+      "Dr. Lo's professional journey has been enriched by her comprehensive ophthalmology training at the esteemed Hospital Raja Permaisuri Bainun (HRPB). During this period, she played an instrumental role in guiding and educating medical officers, and she assumed leadership responsibilities for the oculoplastic team and the welfare services within the ophthalmology department.",
+      "Her area of expertise encompasses the spectrum of eye health, from precise diagnosis to effective treatment and surgical procedures for various eye conditions. Dr. Cassandra Lo places a profound emphasis on fostering clear and compassionate patient communication. She is committed to dedicating ample time to explain diagnoses and elucidate treatment options, thereby empowering patients to make well-informed decisions regarding their eye health under her attentive care."
+    ],
+    "imageUrl": "/images/doctor/drCassandraLo.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Ng Chun Wai",
+    "branchCode": ["Kepong", "Damansara Jaya", "TTDI"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MD (UCSI)", "Doctor of Ophthalmology (UKM)", "CMIA (NIOSH)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": [
+      "English",
+      "Bahasa Malaysia",
+      "Mandarin",
+      "Cantonese",
+      "Hokkien"
+    ],
+    "abouts": [
+      "Dr. Ng Chun Wai, a dedicated Ophthalmologist, excels in surgical skills and delivers top-notch patient care. With extensive experience in comprehensive eye exams, diagnosing and treating diverse eye conditions, prescribing medications, and performing corrective treatments and surgery, Dr. Ng consistently strives to provide optimal eye care.",
+      "Having earned his MD degree from UCSI University in 2011, Dr. Ng pursued specialization in Ophthalmology from 2016-2020 at Universiti Kebangsaan Malaysia (UKM). His training encompassed various subspecialties such as vitreoretinal, medical retina, glaucoma, cornea, and oculoplasty.",
+      "In his career, Dr. Ng trained as an Ophthalmology Master at HTAA Kuantan and as a registrar at HUKM/Hospital Ampang. With a portfolio of global publications, he contributed as a cataract surgeon at Hospital Ampang and the MAWIP cataract center. Actively involved in community eye screening, Dr. Ng is dedicated to accessible eye care for all.",
+      "Fluent in English, Mandarin, Cantonese, Hokkien, and Bahasa Melayu, Dr. Ng possesses exceptional interpersonal skills. He specializes in cataract and refractive surgery."
+    ],
+    "imageUrl": "/images/doctor/drNgChunWai.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Miswan Muiz Mahyudin",
+    "branchCode": ["Damansara Jaya", "Cheras", "Melawati"],
+    "jobTitle": [
+      "Consultant Ophthalmologist",
+      "Refractive Surgeon",
+      "President of Malaysian Society of Ophthalmology"
+    ],
+    "education": ["MOphthal (Malaya)", "MBChB (Otago, NZ)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, SMILE, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "General Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia"],
+    "abouts": [
+      "Dr. Muiz is a highly accomplished Cataract and Refractive Surgeon, holding esteemed positions as past President of the Malaysian Society of Ophthalmology (MSO) and Vice-President of the ASEAN Ophthalmology Society (AOS). Renowned for his expertise, he specializes in correcting refractive errors, presbyopia, and managing cases of very high myopia. His mastery of advanced procedures like Presbyond, SMILE Pro, and Femtosecond LASIK reflects his commitment to optimal vision correction solutions.",
+      "In addition to refractive surgery, Dr. Muiz excels in managing cataracts with a range of options, including multifocal intraocular lenses, ensuring tailored treatment plans for each patient's needs. His journey in ophthalmology began when he graduated from the University of Otago in 2001, followed by specialization at the University Malaya, where he completed his Masters in 2010. Dr. Muiz's extensive clinical experience across various public hospitals has enriched his skills and knowledge, enabling him to provide exceptional care.",
+      "Moreover, Dr. Muiz is dedicated to addressing myopia in children, employing techniques such as orthokeratology, atropine, and myopia control lenses. By actively managing myopia at a young age, he aims to prevent its progression and mitigate potential long-term complications, emphasizing the importance of early intervention in preserving vision health."
+    ],
+    "imageUrl": "/images/doctor/drMiswanMuiz.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Ivan Chong Jia Cherng",
+    "branchCode": ["Kota Kinabalu"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MBBS (IMU)", "MOphthal (UM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, TESA, PRESBYOND)",
+      "Implantable Contact Lens (ICL)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia", "Mandarin", "Hakka"],
+    "abouts": [
+      "Dr. Chong is a compassionate and enthusiastic ophthalmologist committed to providing quality care in improving, preserving, and restoring eye health and vision. Equipped with knowledge and proficient surgical skills complemented by cutting-edge technology, Dr. Chong strives to deliver appropriate and personalized treatment for his patients.",
+      "Having obtained his medical degree from IMU, he then pursued his specialist training, learning from the experts in different hospitals before he was awarded Master of Ophthalmology by University Malaya.",
+      "Dr. Chong has multiple publications and has given speeches in different conferences. Believing in life-long learning, Dr. Chong stayed abreast with the latest developments in the field to ensure the delivery of optimal treatment. He was actively involved in training new specialists, and he was also active in cataract outreach programs.",
+      "Grown up in Kota Kinabalu, Dr. Chong is fluent in Mandarin, English, BM, and various dialects. Good understanding with the patients facilitates precise diagnosis and accurate treatment explanation, allowing patients to take part in the management of their eye conditions, achieving the best possible outcome, and doctor-patient satisfaction."
+    ],
+    "imageUrl": "/images/doctor/drIvanChong.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Chong Ka Lung",
+    "branchCode": ["Seremban"],
+    "jobTitle": ["Consultant Ophthalmologist", "Vitreoretinal Surgeon"],
+    "education": [
+      "MBBS (IMU)",
+      "MOphthal (UM)",
+      "Vitreoretinal Fellowship (Australia)",
+      "Subspecialty Vitreoretinal Fellowship (Ministry of Health, CCFT, M'sia)",
+      "CMIA (NIOSH)",
+      "(AM, AMM)"
+    ],
+    "specialties": [
+      "Vitreoretinal Surgery",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Mandarin", "Bahasa Malaysia"],
+    "abouts": [
+      "Dr. Chong Ka Lung is a board-certified ophthalmologist and vitreoretinal surgeon (Subspecialist) with nearly two decades of clinical experience, both in Malaysia's public healthcare system and internationally in Australia. He graduated with an MBBS from the International Medical University and later obtained a Master of Ophthalmology from the University of Malaya.",
+      "Dr. Chong completed his subspecialty training in vitreoretinal surgery under the Ministry of Health Malaysia (CCFT) and at the Fiona Stanley-Fremantle Hospital Group in Australia. Throughout his career, he has served in 12 public hospitals across various states, including Sarawak, Sabah, Penang, Kelantan, Selangor, Kuala Lumpur, Johor, and the University Malaya Medical Centre (UMMC).",
+      "He is also a certified Medical Impairment Assessor (NIOSH) and previously held membership with the Royal Australian and New Zealand College of Ophthalmologists (RANZCO). During his time in Australia, he served as a clinical tutor for RANZCO trainees, supervising both clinical practice and surgical training. He is currently a member of the Retinal Chapter of the Academy of Medicine of Malaysia.",
+      "In addition to his clinical work, Dr. Chong is committed to community service. He founded the Bintulu Society for the Blind to empower visually impaired individuals towards independent living. He is also actively engaged in research and has authored several publications in both local and international journals, focusing on retinal diseases and rare ophthalmic conditions."
+    ],
+    "imageUrl": "/images/doctor/drChongKaLung.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Teo Shee Kiang",
+    "branchCode": ["Johor Bahru"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MD (UKM)", "Doctor of Ophthalmology (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": ["English", "Bahasa Malaysia", "Mandarin", "Hokkien"],
+    "abouts": [
+      "Dr. Teo Shee Kiang is a dedicated ophthalmologist with extensive experience in the diagnosis and management of a wide spectrum of ocular diseases. He obtained his Medical degree from National University of Malaysia (UKM) and subsequently completed Doctor of Ophthalmology training from same university.",
+      "Being a true-born Johorean, he has served multiple hospitals in Johor for the past 15 years. He has also contributed to several peer-reviewed publications in reputable journals, reflecting his engagement in academic research and dedication to evidence-based practice.",
+      "In addition to his clinical and academic pursuits, Dr. Teo actively participates in community service programmes, including public eye screening initiatives that promote ocular health awareness and facilitate early detection and treatment of visual disorders among underserved populations.",
+      "Dr. Teo provides comprehensive ophthalmic care, including the management of glaucoma, diabetic retinopathy, age-related macular degeneration, and pterygium. He has a particular interest in cataract and refractive surgery, with a strong commitment to delivering precise, patient-centred surgical outcomes.",
+      "Dr. Teo is recognized for his professionalism, sound clinical judgment, and approachable personality to providing high-quality ophthalmic care."
+    ],
+    "imageUrl": "/images/doctor/drTeoSheeKiang.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Alex Yee Chau Sim",
+    "branchCode": ["Klang", "Shah Alam", "Kota Kemuning", "Cheras"],
+    "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
+    "education": ["MD (UKM)", "Doctor of Ophthalmology (UKM)"],
+    "specialties": [
+      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, PRESBYOND)",
+      "Comprehensive Ophthalmology and Cataract Surgery"
+    ],
+    "language": [
+      "English",
+      "Bahasa Malaysia",
+      "Mandarin",
+      "Hokkien",
+      "Cantonese"
+    ],
+    "abouts": [
+      "Dr. Alex is a board-certified Ophthalmologist with over 10 years of clinical experience in the ophthalmology departments of major hospitals across Malaysia. He completed both his undergraduate medical degree and postgraduate Doctor of Ophthalmology at Universiti Kebangsaan Malaysia (UKM).",
+      "Dr. Alex specialises in cataract surgery, having performed more than 500 procedures including complex cases with precision in implanting monofocal, extended depth of focus (EDOF), and multifocal lenses. Beyond cataract care, Dr. Alex has broad experience managing a wide spectrum of ophthalmic conditions.",
+      "He has served in ophthalmology departments at Hospital Sibu Sarawak, Hospital Muar and Pusat Perubatan UKM (PPUKM). Then he served as a specialist in Hospital Muar.",
+      "Dr. Alex is fluent in English, Bahasa Malaysia, Mandarin, Hokkien, and Cantonese, enabling him to connect with and care for patients from diverse backgrounds."
+    ],
+    "imageUrl": "/images/doctor/drAlexYeeChauSim.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Woo Qi Jie",
+    "branchCode": [],
+    "jobTitle": ["Plastic Surgeon"],
+    "education": [
+      "Doctor Of Medicine (RUSSIA)",
+      "Master In Plastic Surgery (U.S.M)"
+    ],
+    "specialties": [],
+    "language": [],
+    "abouts": [],
+    "imageUrl": "/images/doctor/drWooQiJie.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Lim Yee Woon",
+    "branchCode": [],
+    "jobTitle": ["Anaesthetist"],
+    "education": [
+      "Doctor Of Medicine, MD (USM)",
+      "Master Of Anaesthesiology (UM)"
+    ],
+    "specialties": [],
+    "language": [],
+    "abouts": [],
+    "imageUrl": "/images/doctor/drLimYeeWoon.png"
+  },
+  {
+    "title": "Dr.",
+    "name": "Koh Khai Luen",
+    "branchCode": [],
+    "jobTitle": ["Plastic Surgeon"],
+    "education": ["MBBS (IMU)", "MRCS (Ire)", "MS (Plastic Surgery, USM)"],
+    "specialties": [],
+    "language": [],
+    "abouts": [],
+    "imageUrl": "/images/doctor/drKohKhaiLuen.png"
+  }
 ]
