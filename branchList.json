@@ -11,7 +11,7 @@
     },
     "contact": {
       "phone": "+603-7890 2626",
-      "whatsapp": "+6010-909 1201",
+      "whatsapp": "+6016-822 8101",
       "fax": "+603-2859 0214",
       "email": "hq@optimax.com.my"
     },
@@ -76,7 +76,8 @@
     },
     "businessHours": [
       "Monday to Saturday: 9.00am - 6.00pm",
-      "3rd and 4th Sunday of each month: 9.00am - 6.00pm"
+      "1st Sunday of each month: 9.00am - 6.00pm",
+      "BUT STARTING OCTOBER 2026, BUSINESS HOURS WILL BE Tuesday to Saturday: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.0355107,101.7633199&navigate=yes",
@@ -291,7 +292,7 @@
     },
     "businessHours": [
       "Monday to Saturday: 9.00am - 6.00pm",
-      "1st and 2nd Sunday of each month: 9.00am - 6.00pm"
+      "2nd Sunday of each month: 9.00am - 6.00pm"
     ],
     "navigation": {
       "waze": "waze://?ll=3.063802,101.527176&navigate=yes",
@@ -405,7 +406,7 @@
     },
     "businessHours": [
       "Tuesday to Saturday: 9.00am - 6.00pm",
-      "1st Sunday of each month: 9.00am - 6.00pm",
+      "1st Sunday of each month: 9.00am - 1.00pm",
       "Monday: Closed"
     ],
     "navigation": {

@@ -284,37 +284,6 @@
   },
   {
     "title": "Dr.",
-    "name": "Suresh Subramaniam",
-    "branchCode": ["Ipoh"],
-    "jobTitle": [
-      "Consultant Ophthalmologist",
-      "Refractive Surgeon",
-      "Glaucoma Specialist"
-    ],
-    "education": [
-      "MD (UNPAD, Bandung)",
-      "M.Med Ophth (USM)",
-      "Glaucoma Fellowship (SNUH, Seoul)",
-      "CCFT Glaucoma (MOH)",
-      "CMIA (NIOSH)",
-      "AM"
-    ],
-    "specialties": [
-      "Glaucoma Surgery",
-      "LASIK / Laser Refractive Surgery (SMILE Pro, FemtoLASIK, ASA, TESA)",
-      "Implantable Contact Lens (ICL)",
-      "Comprehensive Ophthalmology and Cataract Surgery"
-    ],
-    "language": ["English", "Bahasa Malaysia", "Tamil"],
-    "abouts": [
-      "Our dedicated Dr. Suresh is an expert in glaucoma and has worked in hospitals all over Malaysia for more than 18 years. He treats glaucoma as well as other eye diseases such as diabetic eye disease, paediatric eye care, age-related macular degeneration, and pterygium.",
-      "He earned a Medical Degree from the University Padjadjaran in Bandung and a Master's Degree in Medical Ophthalmology from the University Sains Malaysia. From 2014 to 2017, he pursued sub-specialist training in glaucoma at the Ministry of Health hospitals (Hospital Sultanah Bahiyah, Kedah, Hospital Kuala Lumpur and Hospital Selayang) and Seoul National University Hospital, South Korea.",
-      "Dr. Suresh is a loving husband and father to two amazing children. He is a resident glaucoma specialist at the Ipoh-based Optimax Eye Specialist Centre."
-    ],
-    "imageUrl": "/images/doctor/drSuresh.png"
-  },
-  {
-    "title": "Dr.",
     "name": "Edwin Ooi Inn Loon",
     "branchCode": ["Penang"],
     "jobTitle": ["Consultant Ophthalmologist", "Refractive Surgeon"],
